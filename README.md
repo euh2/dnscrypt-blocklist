@@ -1,1 +1,1 @@
-# dnscrypt-blocklist-porn
+# dnscrypt-blocklist
