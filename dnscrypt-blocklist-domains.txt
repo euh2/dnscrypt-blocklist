@@ -676,7 +676,6 @@ clickdensity.com
 clickedyclick.com
 clickfuse.com
 clickhereforcellphones.com
-clickhouse.com
 clickhype.com
 clickthruserver.com
 clickthrutraffic.com
@@ -2357,6 +2356,7 @@ stream.useriq.com
 userreplay.com
 usherprayer.com
 usingirritatecordial.com
+utenod.com
 utl-1.com
 uttermosthobbies.com
 ads.v-lazer.com
@@ -2540,6 +2540,7 @@ richmedia.yimg.com
 yldbt.com
 ymetrica1.com
 yoggrt.com
+yogyn.com
 youradexchange.com
 adjuggler.yourdictionary.com
 ads.yourfreedvds.com
@@ -3503,7 +3504,7 @@ adzone.temp.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 50030
+# Ignored duplicates: 50029
 # Ignored entries due to the allowlist: 223
 
 marketing.globalpointofcare.abbott
@@ -15267,6 +15268,7 @@ analytics-eu.clickdimensions.com
 ad.clickdistrict.com
 clickedgesolutions.com
 images.clickfinders.com
+clickhouse.com
 s.clickiocdn.com
 clicklesbian.com
 www.clickmanage.com
