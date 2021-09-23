@@ -953,6 +953,7 @@ estat.com
 esty.com
 etahub.com
 etargetnet.com
+etioh.com
 etracker.com
 eurekster.com
 banner.eurogrand.com
@@ -1364,6 +1365,7 @@ record.affiliates.karjalakasino.com
 karonty.com
 ad.keenspace.com
 ads.kelbymediagroup.com
+kesmatic.com
 kindads.com
 ads.kinxxx.com
 kissmetrics.com
@@ -3140,6 +3142,7 @@ ns1p.net
 nuggad.net
 ads.nyi.net
 marketing.nyi.net
+ojrq.net
 omtrdc.net
 onclickads.net
 open.oneplus.net
@@ -3512,7 +3515,7 @@ adzone.temp.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 50029
+# Ignored duplicates: 50030
 # Ignored entries due to the allowlist: 223
 
 marketing.globalpointofcare.abbott
@@ -57595,7 +57598,6 @@ oixpre-stage.net
 oixssp.net
 oixssp-lab.net
 oixssp-rubyem.net
-www.ojrq.net
 okazyjnie.net
 okwoodturners.net
 old-glasses.net
