@@ -3,7 +3,7 @@
 ########## Blocklist from https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml ##########
 
 # Ignored duplicates: 136
-# Ignored entries due to the allowlist: 11
+# Ignored entries due to the allowlist: 12
 
 chameleon.ad
 content.ad
@@ -289,6 +289,7 @@ adserverplus.com
 adserverpub.com
 adserversolutions.com
 adservingfront.com
+adservrs.com
 adside.com
 adsiduous.com
 adskpak.com
@@ -3042,6 +3043,7 @@ adzerk.net
 affili.net
 affiliatetracking.net
 aistat.net
+e37364.dscd.akamaiedge.net
 analytics.algoepico.net
 box.anchorfree.net
 anrdoezrs.net
