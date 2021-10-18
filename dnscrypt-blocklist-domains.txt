@@ -772,7 +772,6 @@ crawlability.com
 crawlclocks.com
 crazyegg.com
 crazypopups.com
-creafi-online-media.com
 ads.creative-serving.com
 criteo.com
 critictruck.com
@@ -2878,8 +2877,6 @@ analytics.htmedia.in
 reforge.in
 analytics.bitrix.info
 clicktrace.info
-croissed.info
-lucklayed.info
 prchecker.info
 s2strk.info
 shermore.info
@@ -2918,6 +2915,7 @@ tracking.markethero.io
 mediasmart.io
 mltrk.io
 navigator.io
+tracking.netalerts.io
 ntv.io
 onthe.io
 analytics.ostr.io
@@ -3355,7 +3353,6 @@ ads.adstream.com.ro
 banner.finzoom.ro
 ip.ro
 top123.ro
-top90.ro
 trafic.ro
 xchange.ro
 adland.ru
@@ -3426,6 +3423,7 @@ mas.sector.sk
 ads.webinak.sk
 eversales.space
 ad.style
+lightstep.medium.systems
 adserver.gilligan.tech
 volvelle.tech
 truehits1.gits.net.th
@@ -3537,7 +3535,7 @@ adzone.temp.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 61884
+# Ignored duplicates: 61880
 # Ignored entries due to the allowlist: 223
 
 marketing.globalpointofcare.abbott
@@ -16113,6 +16111,7 @@ crazyxxx3dworld.com
 crazyxxxcartoons.com
 gogo.crea-lp.com
 albatross.creacoon.com
+creafi-online-media.com
 go.creaform3d.com
 creamgoodies.com
 creampie-mature.com
@@ -49804,6 +49803,7 @@ crediblegfj.info
 www.creditauthpagev3.info
 cremaster.info
 criticisedduennaships.info
+croissed.info
 csakneked.info
 ctni.info
 cuiland.info
@@ -50119,6 +50119,7 @@ lotss-newspl.info
 lt-product.info
 ltos-site.info
 lts-pl.info
+lucklayed.info
 business.lutron.info
 ma-plastifieuse.info
 mac-protection.info
@@ -67601,6 +67602,7 @@ log.statistici.ro
 s.statistici.ro
 hitx.statistics.ro
 sanalytics.tnt-tv.ro
+top90.ro
 topadult.ro
 topsiteuri.ro
 textad.traficdublu.ro
