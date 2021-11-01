@@ -798,7 +798,6 @@ damageddistance.com
 damdoor.com
 dancemistake.com
 dapperfloor.com
-dashbida.com
 dashingdirt.com
 dashingsweater.com
 data8a8altrk.com
@@ -1358,7 +1357,6 @@ jsecoin.com
 jsrdn.com
 juicyads.com
 jumptap.com
-ads.junctionbox.com
 jungroup.com
 afftracking.justanswer.com
 ads.justhungry.com
@@ -2633,7 +2631,6 @@ reklama.mironet.cz
 ceskydomov.alias.ngs.modry.cz
 navrcholu.cz
 netagent.cz
-imonitor.nethost.cz
 add.newmedia.cz
 ads.newmedia.cz
 banner.nixnet.cz
@@ -3112,6 +3109,7 @@ ads4.gamecity.net
 ads6.gamecity.net
 ads7.gamecity.net
 gamesites100.net
+ads.geekswithblogs.net
 globaltakeoff.net
 gloyah.net
 gmads.net
@@ -3456,6 +3454,7 @@ teads.tv
 vidible.tv
 targeting.voxus.tv
 breaktime.com.tw
+hotrank.com.tw
 ox1.shopcool.com.tw
 bbn.img.com.ua
 affiliates.rozetka.com.ua
@@ -3539,7 +3538,7 @@ adzone.temp.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 56453
+# Ignored duplicates: 56450
 # Ignored entries due to the allowlist: 223
 
 marketing.globalpointofcare.abbott
@@ -21361,6 +21360,7 @@ metrics.darty.com
 smetrics.darty.com
 www2.darwin.com
 dascoin.com
+dashbida.com
 dashbo15myapp.com
 dashboardprompt.com
 dashingleather.com
@@ -29695,6 +29695,7 @@ mobile-sdk-resources.jumio.com
 nv-sdk.jumio.com
 cloud.jumpcloud.com
 t2.junbi-tracker.com
+ads.junctionbox.com
 ads.juneauempire.com
 junecleeland.com
 smetrics.junsungki.com
@@ -50966,6 +50967,7 @@ smetrics.moneta.cz
 myetherwallet.cz
 myporno.cz
 hacking.mysteria.cz
+imonitor.nethost.cz
 skype.nexxen.cz
 novinkyverotice.cz
 sstats.www.o2.cz
