@@ -13,7 +13,6 @@ cognitiv.ai
 fixel.ai
 analytics.jst.ai
 m2.ai
-admotion.com.ar
 bannerlandia.com.ar
 ads.5min.at
 ad-balancer.at
@@ -162,7 +161,6 @@ abtasty.com
 ad.abum.com
 abz.com
 acbsearch.com
-bannieres.acces-contenu.com
 acridtwist.com
 ads.acrosspf.com
 actionsplash.com
@@ -814,6 +812,7 @@ dealdotcom.com
 debonairway.com
 debtbusterloans.com
 decenterads.com
+decisivebase.com
 decisivedrawer.com
 decisiveducks.com
 decoycreation.com
@@ -1353,7 +1352,6 @@ jdoqocy.com
 ad.jetsoftware.com
 ads.jewishfriendfinder.com
 tracking.jiffyworld.com
-ads.jiwire.com
 ads.joaffs.com
 ads.jpost.com
 jsecoin.com
@@ -1997,7 +1995,6 @@ adserver.sciflicks.com
 scintillatingscissors.com
 scintillatingsilver.com
 scintillatingspace.com
-scoobyads.com
 scopelight.com
 scorecardresearch.com
 scratch2cash.com
@@ -2280,7 +2277,6 @@ top20free.com
 topbucks.com
 topforall.com
 ads.toplayaffiliates.com
-toplistcity.com
 toprebates.com
 topsir.com
 topstats.com
@@ -3381,7 +3377,6 @@ hotlog.ru
 inetlog.ru
 click.kmindex.ru
 counting.kmindex.ru
-matomo.kmkb.ru
 lbn.ru
 top.list.ru
 top100.mafia.ru
@@ -3543,7 +3538,7 @@ adzone.temp.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 57184
+# Ignored duplicates: 57178
 # Ignored entries due to the allowlist: 218
 
 marketing.globalpointofcare.abbott
@@ -3774,6 +3769,7 @@ cl-ad.x-flow.app
 securemetrics.experience.apple
 engage.3m.com.ar
 acmsa.com.ar
+admotion.com.ar
 amarteargentina.com.ar
 angelesbuenos.com.ar
 angelitas.com.ar
@@ -8283,6 +8279,7 @@ somni.accenture.com
 trackingcareers.accenture.com
 trackingmms.accenture.com
 go.accertify.com
+bannieres.acces-contenu.com
 ea.access-moto.com
 marketing.accessdata.com
 accessfreevpn.com
@@ -29466,6 +29463,7 @@ jinglecams.com
 stats.jippii.com
 jitosomon.com
 jivox.com
+ads.jiwire.com
 jiztini.com
 jizzads.com
 jizzboat.com
@@ -39938,6 +39936,7 @@ scmanagerpro.com
 adserver.scmp.com
 rsc.scmspain.com
 scomaninteractive.com
+scoobyads.com
 score-video.com
 scoreadate.com
 scoreland.com
@@ -44003,6 +44002,7 @@ statik.topica.com
 m.topiccore.com
 toplearningcurve.com
 toplesbianvideos.com
+toplistcity.com
 www.toplistim.com
 toplistwebcams.com
 topmarketcenter.com
@@ -73129,6 +73129,7 @@ www.kinomarathon.ru
 mnxlyo.kinoteatr.ru
 gate.technopolis.kirov.ru
 rateme.km.ru
+matomo.kmkb.ru
 stats.kod.ru
 smetrics.kone.ru
 cyxos.kosmonadrova.ru
