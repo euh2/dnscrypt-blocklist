@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml ##########
 
-# Ignored duplicates: 126
+# Ignored duplicates: 125
 # Ignored entries due to the allowlist: 13
 
 chameleon.ad
@@ -163,7 +163,6 @@ absurdwater.com
 abtasty.com
 ad.abum.com
 abz.com
-acbsearch.com
 acridtwist.com
 ads.acrosspf.com
 actionsplash.com
@@ -447,7 +446,6 @@ aswpsdkus.com
 atdmt.com
 adx.atnext.com
 attractiveafternoon.com
-attributiontracker.com
 atwola.com
 auctionads.com
 audience2media.com
@@ -2910,7 +2908,6 @@ lucklayed.info
 prchecker.info
 s2strk.info
 shermore.info
-silvalliant.info
 ads.sjon.info
 spotscenered.info
 ads2.techads.info
@@ -3332,6 +3329,8 @@ ads.harpers.org
 ads.heartlight.org
 avpa.javalobby.org
 adserve.jbs.org
+plausible.mangadex.org
+ploz.mangadex.org
 incoming.telemetry.mozilla.org
 ads.muslimehelfen.org
 ads.myadv.org
@@ -3568,7 +3567,7 @@ adzone.temp.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 57011
+# Ignored duplicates: 57008
 # Ignored entries due to the allowlist: 217
 
 marketing.globalpointofcare.abbott
@@ -8504,6 +8503,7 @@ acalvet.com
 acanthosisnigricanspedia.com
 metrics.acbj.com
 acbras.com
+acbsearch.com
 smetrics.accaglobal.com
 ads.accelerator-media.com
 api.accengage.com
@@ -12056,6 +12056,7 @@ api.attentivemobile.com
 events.attentivemobile.com
 attractivemoms.com
 attractivesex.com
+attributiontracker.com
 tracking.attsavings.com
 atvids.com
 wersow-24.atwebpages.com
@@ -58395,6 +58396,7 @@ shegotass.info
 shellstore.info
 shorka24.info
 shtraf.info
+silvalliant.info
 sincentre.info
 singularitynet.info
 sitegiant.info
