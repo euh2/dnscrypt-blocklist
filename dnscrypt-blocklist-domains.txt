@@ -2007,7 +2007,6 @@ upu.samsungelectronics.com
 xpu.samsungelectronics.com
 ypu.samsungelectronics.com
 zpu.samsungelectronics.com
-gpm.samsungqbe.com
 saysidewalk.com
 scanscout.com
 scaraabresearch.com
@@ -3566,7 +3565,7 @@ adzone.temp.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 57512
+# Ignored duplicates: 57511
 # Ignored entries due to the allowlist: 217
 
 marketing.globalpointofcare.abbott
@@ -41292,6 +41291,7 @@ oempprd.samsungcloudsolution.com
 vdterms.samsungcloudsolution.com
 invitation.samsungiotcloud.com
 gld.samsungosp.com
+gpm.samsungqbe.com
 osb-ussvc.samsungqbe.com
 contact.samsungsds.com
 tracking.mkt-email.samsungsds.com
