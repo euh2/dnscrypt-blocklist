@@ -94,6 +94,7 @@ ads.wapx.cn
 6sc.co
 adk2.co
 algorix.co
+customads.co
 erne.co
 feathr.co
 jads.co
@@ -721,7 +722,6 @@ ads.co.com
 codeadnetwork.com
 analytics.cohesionapps.com
 coin-hive.com
-coinhive.com
 ads.colombiaonline.com
 colonize.com
 dsp.colpirio.com
@@ -3553,7 +3553,7 @@ adzone.temp.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 58247
+# Ignored duplicates: 58246
 # Ignored entries due to the allowlist: 217
 
 marketing.globalpointofcare.abbott
@@ -20854,6 +20854,7 @@ coindeskoption.com
 coinerra.com
 coinfirst.com
 coinhits.com
+coinhive.com
 coinhiveproxy.com
 coinimp.com
 coininsider.com
