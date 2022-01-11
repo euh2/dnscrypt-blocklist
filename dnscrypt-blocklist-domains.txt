@@ -1687,7 +1687,6 @@ ads.nytimes.com
 als-svc.nytimes.com
 et.nytimes.com
 nzaza.com
-o0bc.com
 o333o.com
 oafishobservation.com
 obscenesidewalk.com
@@ -3583,7 +3582,7 @@ adzone.temp.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 59654
+# Ignored duplicates: 59653
 # Ignored entries due to the allowlist: 217
 
 marketing.globalpointofcare.abbott
@@ -36543,6 +36542,7 @@ pfcuay.o-f.com
 o-l-x.com
 ads.o-networkaffiliates.com
 o-oe.com
+o0bc.com
 o313o.com
 ticketer.o365-mail.com
 office.o365-ticketer.com
