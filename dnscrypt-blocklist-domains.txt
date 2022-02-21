@@ -220,7 +220,6 @@ adflight.com
 adforce.com
 adform.com
 adgardener.com
-adgoto.com
 email-clk.adguard.com
 email-opn.adguard.com
 adhaven.com
@@ -1037,7 +1036,6 @@ ads-game-187f4.firebaseapp.com
 fireworkadservices.com
 fireworkanalytics.com
 fireworks-advertising.com
-firstlightera.com
 t.firstpromoter.com
 spot.fitness.com
 flairadscpc.com
@@ -1077,7 +1075,6 @@ franklybundlecarver.com
 free-banners.com
 freebanner.com
 freecounterstat.com
-cdn.freefarcy.com
 freelogs.com
 track.freemmo2017.com
 freeonlineusers.com
@@ -1469,7 +1466,6 @@ logua.com
 longinglettuce.com
 evs.sgmt.loom.com
 loopme.com
-lop.com
 ads.lordlucky.com
 loudlunch.com
 lp3tdqle.com
@@ -1574,7 +1570,6 @@ ads.mobilebet.com
 mobilefuse.com
 modernpricing.com
 modifyeyes.com
-affiliate.mogs.com
 moldyicicle.com
 monarchads.com
 monetizer101.com
@@ -1999,6 +1994,7 @@ affiliate.rusvpn.com
 ruthlessrobin.com
 s1-adfly.com
 s20dh7e9dh.com
+s2d6.com
 sail-horizon.com
 a.sakh.com
 t.salesmatemail.com
@@ -3216,7 +3212,6 @@ adserver.portugalmail.net
 primetime.net
 pro-market.net
 pubnative.net
-questaffiliates.net
 stats.rdphv.net
 readserver.net
 revsci.net
@@ -3462,7 +3457,6 @@ ad.style
 uowbqce.surf
 lightstep.medium.systems
 ql.tc
-adserver.gilligan.tech
 volvelle.tech
 truehits1.gits.net.th
 truehits2.gits.net.th
@@ -3570,12 +3564,11 @@ wpnrtnmrewunrtok.xyz
 ads.img.co.za
 banner.img.co.za
 adsrv.iol.co.za
-adzone.temp.co.za
 
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 61150
+# Ignored duplicates: 61143
 # Ignored entries due to the allowlist: 186
 
 marketing.globalpointofcare.abbott
@@ -9767,6 +9760,7 @@ adgear.com
 www.adgitize.com
 www.adgjl13.com
 advs.adgorithms.com
+adgoto.com
 adgrx.com
 adgtracker.com
 adhall.com
@@ -25705,6 +25699,7 @@ mdws.firstcalgary.com
 firstconsumers.com
 firstfitschool.com
 firstinvplone.com
+firstlightera.com
 cdn.firstlook.com
 sanalytics.firstnational.com
 explore.firstnet.com
@@ -26223,6 +26218,7 @@ freedvddept.com
 freeextremecams.com
 www.freeezinebucks.com
 cdn.freefaits.com
+cdn.freefarcy.com
 freefire-membershipvn-garena.com
 freefoodsource.com
 sw88.freeform.com
@@ -32714,6 +32710,7 @@ www.loom3otto.com
 a8.looop-denki.com
 marketing.loopnetmail.com
 loot-conveyor.com
+lop.com
 secure.lope4refl.com
 www.lope4refl.com
 marketing.lord.com
@@ -34435,6 +34432,7 @@ www.mofosnetworkporn.com
 www.mofozxxx.com
 mogliescopata.com
 www3.mogroup.com
+affiliate.mogs.com
 mojekonto-otomoto.com
 mojn.com
 mojoporntube.com
@@ -41381,7 +41379,6 @@ signal-beacon.s-onetag.com
 signal-metrics-collector-beta.s-onetag.com
 s-turkmen.com
 www.s1s1s1.com
-www.s2d6.com
 s3-ap-southeast-1-amazonaws.com
 s3-ap-southeast-2-amazonaws.com
 www.s3network1.com
@@ -67474,6 +67471,7 @@ qualitylivesex.net
 quantummarket.net
 queermenow.net
 querverweis.net
+questaffiliates.net
 quize-sale.net
 quizzitch.net
 qwertty.net
@@ -80626,6 +80624,7 @@ garbanda.tech
 gazeta-pl.tech
 georgina.tech
 gifto.tech
+adserver.gilligan.tech
 cdn.gimbal.tech
 greatmacsoft.tech
 in149ovationproject.tech
@@ -86593,6 +86592,7 @@ sainzim.co.za
 schoolofspanish.co.za
 spaceframe.mobi.space-frame.co.za
 lm.stagingarea.co.za
+adzone.temp.co.za
 theswimshop.co.za
 timamollo.co.za
 travelwithmanta.co.za
