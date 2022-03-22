@@ -23,7 +23,6 @@ oewa.at
 ads.uxs.at
 tracking.wetter.at
 smetrics.10daily.com.au
-cloud-iq.com.au
 ads.fairfax.com.au
 ffxcam.fairfax.com.au
 adserver.news.com.au
@@ -61,14 +60,11 @@ banners.bol.com.br
 adserver.diariodosertao.com.br
 anuncios.edicaoms.com.br
 ads.egrana.com.br
-enviou.com.br
 ads.ibest.com.br
 ad.jacotei.com.br
 click.negociosdigitaisnapratica.com.br
 adserver.pampa.com.br
-pmweb.com.br
 adfs.senacrs.com.br
-shoptarget.com.br
 softclick.com.br
 ads.todoti.com.br
 topsites.com.br
@@ -214,7 +210,6 @@ adconion.com
 adcycle.com
 addfreestats.com
 addme.com
-addwish.com
 adecn.com
 adeimptrck.com
 ademails.com
@@ -409,7 +404,6 @@ digital-ads.s3.amazonaws.com
 entrecard.s3.amazonaws.com
 surveygizmobeacon.s3.amazonaws.com
 yab-adimages.s3.amazonaws.com
-9w2zed1szg.execute-api.us-east-1.amazonaws.com
 mobileanalytics.us-east-1.amazonaws.com
 banner.ambercoastcasino.com
 ambiguousquilt.com
@@ -601,7 +595,6 @@ broadboundary.com
 broadcastbed.com
 broaddoor.com
 broadstreetads.com
-brontops.com
 admanager.btopenworld.com
 log.btopenworld.com
 staticads.btopenworld.com
@@ -1070,7 +1063,6 @@ click.fool.com
 valerie.forbes.com
 foresee.com
 forkcdn.com
-formstack.com
 ads.fortunecity.com
 oascentral.fortunecity.com
 forwrdnow.com
@@ -1493,7 +1485,6 @@ mackeeperapp.mackeeper.com
 madcpms.com
 madinad.com
 madisonavenue.com
-madkudu.com
 eu1.madsone.com
 magnificentmist.com
 track.mailerlite.com
@@ -1507,7 +1498,6 @@ markedpail.com
 market-buster.com
 marketo.com
 massivemark.com
-masterworks.com
 ads.affiliates.match.com
 matchcraft.com
 crtv.mate1.com
@@ -1791,7 +1781,6 @@ pgmediaserve.com
 pgpartner.com
 analytics.phando.com
 pheedo.com
-phenompeople.com
 photographpan.com
 picadmedia.com
 analytics.picsart.com
@@ -2553,7 +2542,6 @@ whisperingflesh.com
 ads.whoishostingthis.com
 wickedreports.com
 widespace.com
-widgetbe.com
 widgetbucks.com
 athena-ads.wikia.com
 wikia-ads.wikia.com
@@ -2637,7 +2625,6 @@ zbwp6ghm.com
 zealousfield.com
 zedo.com
 zemanta.com
-zenaps.com
 zenkreka.com
 zenzuu.com
 zeusclicks.com
@@ -2866,7 +2853,6 @@ rum-http-intake.logs.datadoghq.eu
 edaa.eu
 hits.europuls.eu
 banner.icmedia.eu
-iraiser.eu
 kameleoon.eu
 openx.kgmedia.eu
 m6r.eu
@@ -2955,7 +2941,6 @@ augur.io
 avocet.io
 bidr.io
 click.cartsguru.io
-clerk.io
 clickmate.io
 analytics.cloudron.io
 zion-telemetry.api.cnn.io
@@ -3043,7 +3028,6 @@ aa-metrics.trip-ai.jp
 webtracker.jp
 ad1.eventmanager.co.kr
 carambo.la
-idx.lat
 eqy.link
 ads.5ci.lt
 thirdparty.bnc.lt
@@ -3133,7 +3117,6 @@ ad0.bigmir.net
 c.bigmir.net
 blueconic.net
 bounceads.net
-capturehighered.net
 carbonads.net
 banner.casino.net
 chartbeat.net
@@ -3488,7 +3471,6 @@ naj.sk
 adserver.scr.sk
 mas.sector.sk
 ads.webinak.sk
-cybba.solutions
 eversales.space
 ad.style
 uowbqce.surf
@@ -3605,7 +3587,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 59313
+# Ignored duplicates: 59295
 # Ignored entries due to the allowlist: 192
 
 marketing.globalpointofcare.abbott
@@ -4638,6 +4620,7 @@ cmq.christinemcqueen.com.au
 assets1.cilinsurance.com.au
 smetrics.citibank.com.au
 email.clearscore.com.au
+cloud-iq.com.au
 metrics.codesports.com.au
 angel.comcen.com.au
 ifmonx.commercialrealestate.com.au
@@ -5741,6 +5724,7 @@ ww2.edenredprepagos.com.br
 comunicacao.edpcomunicacao.com.br
 inovacao.edpcomunicacao.com.br
 empreendedorainteligente.com.br
+enviou.com.br
 analytics.esporteinterativo.com.br
 sanalytics.esporteinterativo.com.br
 euadoroisso.com.br
@@ -5805,6 +5789,7 @@ pib7bocaiuvadosul.com.br
 pissettiadvogados.com.br
 planearconsultoria.com.br
 playboy.com.br
+pmweb.com.br
 polarrefrigeracao.com.br
 pornotorrent.com.br
 portaladelaide.com.br
@@ -5818,6 +5803,7 @@ redtube.com.br
 rjr-rs.com.br
 e-commerce.saleensuporte.com.br
 segredosdasupermaquiagem.com.br
+shoptarget.com.br
 api.soclminer.com.br
 ssc.southparkstudios.com.br
 splove.com.br
@@ -10002,6 +9988,7 @@ m.addthisedge.com
 static.addtoany.com
 stats.addtoany.com
 www.addtoany.com
+addwish.com
 ads.addynamix.com
 banners.delivery.addynamo.com
 s01.delivery.addynamo.com
@@ -11411,6 +11398,7 @@ static-shareaholic.s3.amazonaws.com
 vml1.s3.amazonaws.com
 windowsphishingalert158.s3.amazonaws.com
 znaptag-us.s3.amazonaws.com
+9w2zed1szg.execute-api.us-east-1.amazonaws.com
 bin5y4muil.execute-api.us-east-1.amazonaws.com
 shagmag-media-2.s3.us-east-2.amazonaws.com
 huq-query-loggers-california-3cec807da3e9dc0d.elb.us-west-1.amazonaws.com
@@ -19455,6 +19443,7 @@ bromo.com
 bromonetwork.com
 bird.brondby.com
 uampxb.bronnitsy.com
+brontops.com
 bronzeadultblogs.com
 www.bronzeporntube.com
 smetrics.brookdale.com
@@ -26406,6 +26395,7 @@ formalyzer.com
 formattingcells.com
 formessengers.com
 cdn-static.formisimo.com
+formstack.com
 go.formtechnologies.com
 cueohf.foroactivo.com
 elq.forrester.com
@@ -33423,6 +33413,7 @@ madhotnakedgirls.com
 www.madhousedc.com
 go.madico.com
 madisenharper.com
+madkudu.com
 madmamas.com
 madmaturewomen.com
 madmomtube.com
@@ -33763,6 +33754,7 @@ sticketsmetrics.masters.com
 mastersitepass.com
 mastertradeinvestments.com
 masterwanker.com
+masterworks.com
 mastiflix.com
 mastromena.com
 masturbate.com
@@ -38539,6 +38531,7 @@ go.medicom.phchd.com
 go.pheasant.com
 discover.phenomenex.com
 experience.phenomenex.com
+phenompeople.com
 go.phhlending.com
 phikunprogramming.com
 phil-flash.com
@@ -51052,6 +51045,7 @@ geo.widdit.com
 www.widebanner.com
 widensniff.com
 widestep.com
+widgetbe.com
 go.widsley.com
 wielkanagroda.com
 wielofunkcyjne-okulary-do-czytania-pl.com
@@ -52921,6 +52915,7 @@ zekiatagur.com
 zemanihunter.com
 zembaenlightenment.com
 zemgo.com
+zenaps.com
 sadbmetrics.zendalibros.com
 analytics.zendesk.com
 go.zendesk.com
@@ -55605,6 +55600,7 @@ internetowe-zmagania.eu
 internetowy-turniej.eu
 ns3100751.ip-54-36-175.eu
 info.iperia.eu
+iraiser.eu
 go.jameshardie.eu
 de.inform.janssenpro.eu
 x2sfa.javgg.eu
@@ -59588,6 +59584,7 @@ chatterbate.io
 x-storage-a1.cir.io
 rook.clarify.io
 protected-by.clarium.io
+clerk.io
 bankfotek.cleverapps.io
 e-wyborcza24-e.cleverapps.io
 e-wyborcza24-i.cleverapps.io
@@ -61789,6 +61786,7 @@ jav.land
 milfporn.land
 partridge.unfamiliar.land
 chaturbate.lat
+idx.lat
 ssc.southpark.lat
 youporn.lc
 sr-dynamic-content.ext.api.leclerc
@@ -64022,6 +64020,7 @@ camsexvideo.net
 camsharks.net
 secure.stat.canal-plus.net
 adserver.cantv.net
+capturehighered.net
 centenary.caritasrwanda.net
 carmuffler.net
 carnegienet.net
@@ -79923,6 +79922,7 @@ www2.theforum.social
 wpad.software
 atlant.solutions
 info.aurum.solutions
+cybba.solutions
 090334.space
 112121.space
 134099.space
