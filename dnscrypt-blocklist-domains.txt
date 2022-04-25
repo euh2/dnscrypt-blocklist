@@ -13,7 +13,6 @@ fixel.ai
 analytics.jst.ai
 m2.ai
 matomo.crossiety.app
-admotion.com.ar
 bannerlandia.com.ar
 ads.5min.at
 ad-balancer.at
@@ -51,7 +50,6 @@ ads.expat-blog.biz
 adserver.msmb.biz
 roia.biz
 ktu.sv2.biz
-tangerinenet.biz
 textads.biz
 trafficfactory.biz
 ads.wwe.biz
@@ -114,12 +112,10 @@ r.scoota.co
 counter.snackly.co
 logger.snackly.co
 verblife-3.co
-verblife-4.co
 verblife-5.co
 log.videocampaign.co
 wdfl.co
 5ijo.01net.com
-1-1ads.com
 101com.com
 101order.com
 123freeavatars.com
@@ -783,6 +779,7 @@ criteo.com
 critictruck.com
 crowdgravity.com
 crsspxl.com
+cubics.com
 culturedcrayon.com
 cumbersomecloud.com
 curtaincows.com
@@ -1989,7 +1986,6 @@ rtbflairads.com
 rtbidhost.com
 rtbpop.com
 rtbpopd.com
-rtbtradein.com
 rtpdn11.com
 rtxplatform.com
 ru4.com
@@ -3579,7 +3575,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 64392
+# Ignored duplicates: 64387
 # Ignored entries due to the allowlist: 187
 
 marketing.globalpointofcare.abbott
@@ -4210,6 +4206,7 @@ cl-ad.x-flow.app
 securemetrics.experience.apple
 engage.3m.com.ar
 acmsa.com.ar
+admotion.com.ar
 alasparacrecer.com.ar
 amarteargentina.com.ar
 angelesbuenos.com.ar
@@ -5580,6 +5577,7 @@ pub.sv2.biz
 szaszlyk.biz
 taboozoo.biz
 tahlil.biz
+tangerinenet.biz
 technology-tesla.biz
 teen-porn.biz
 teenerotica.biz
@@ -8257,6 +8255,7 @@ sdk.upush.co
 quail.uxgigs.co
 stats.uxtools.co
 dormouse.vael.co
+verblife-4.co
 p.vibrant.co
 www.videospornomexicanos.co
 links.official.vsco.co
@@ -8406,6 +8405,7 @@ dns.0pengl.com
 adv.0tub.com
 0x-project.com
 0xtoken.com
+1-1ads.com
 secure.1-cl0ud.com
 www.1-cl0ud.com
 1-free-share-buttons.com
@@ -42221,6 +42221,7 @@ bid306.rtbsrv.com
 dmp.rtbsrv.com
 code.rtbsystem.com
 switch.rtbsystem.com
+rtbtradein.com
 www.rtcode.com
 go.rtm.com
 rtrgt2.com
