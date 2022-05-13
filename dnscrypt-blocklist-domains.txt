@@ -781,7 +781,6 @@ criteo.com
 critictruck.com
 crowdgravity.com
 crsspxl.com
-cubics.com
 culturedcrayon.com
 cumbersomecloud.com
 curtaincows.com
@@ -3574,7 +3573,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 64082
+# Ignored duplicates: 64081
 # Ignored entries due to the allowlist: 186
 
 marketing.globalpointofcare.abbott
@@ -22247,6 +22246,7 @@ wiadomosci.wp.pl.52867366.cube-cologne.com
 89151535.cube-cologne.com
 a1-wazne-gazeta.cube-cologne.com
 pl.cube-cologne.com
+cubics.com
 gbtracking.cubiq.com
 t.cubuffs.com
 cuckold69.com
