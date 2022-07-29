@@ -2807,6 +2807,7 @@ ads.tripod.lycos.es
 ads.mediasmart.es
 ads.recoletos.es
 adsfac.eu
+braze.eu
 manageadv.cblogs.eu
 browser-http-intake.logs.datadoghq.eu
 rum-http-intake.logs.datadoghq.eu
@@ -3537,7 +3538,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 66880
+# Ignored duplicates: 66882
 # Ignored entries due to the allowlist: 191
 
 marketing.globalpointofcare.abbott
@@ -57748,8 +57749,6 @@ sadobemarketing.boden.eu
 www.bodog.eu
 bonynaszkolenie.eu
 brak-opcji.eu
-cdn.braze.eu
-fra-01.braze.eu
 brink7.eu
 british-laryngology-journal.eu
 buergerliste-eppan.eu
