@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml ##########
 
-# Ignored duplicates: 98
+# Ignored duplicates: 100
 # Ignored entries due to the allowlist: 14
 
 chameleon.ad
@@ -1337,7 +1337,6 @@ adserver.irishwebmasterforum.com
 t.irtyd.com
 ads.isoftmarketing.com
 banners.isoftmarketing.com
-iterable.com
 its-that-easy.com
 ads.itv.com
 hits-i.iubenda.com
@@ -3535,7 +3534,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 67483
+# Ignored duplicates: 67482
 # Ignored entries due to the allowlist: 191
 
 marketing.globalpointofcare.abbott
@@ -31887,6 +31886,7 @@ italianpornfilms.com
 italiapagamen.com
 itcompany.com
 info.itential.com
+iterable.com
 iteratehq.com
 ithinkthatshot.com
 itinyteens.com
