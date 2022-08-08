@@ -105,7 +105,6 @@ pixel.keywee.co
 lemnisk.co
 magicadz.co
 analytics.mailmunch.co
-ads.privatemedia.co
 pushtrack.co
 rockabox.co
 r.scoota.co
@@ -159,7 +158,6 @@ aboardlevel.com
 ads.abovetopsecret.com
 abruptroad.com
 absentstream.com
-absoluteclickscom.com
 absorbingband.com
 abstractedauthority.com
 absurdwater.com
@@ -230,7 +228,6 @@ adjuggler.com
 adjust.com
 adjustnetwork.com
 adk2.com
-adledge.com
 adlegend.com
 adlightning.com
 adloox.com
@@ -756,7 +753,6 @@ copperchickens.com
 copycarpenter.com
 copyrightaccesscontrols.com
 coremetrics.com
-cormast.com
 cosmopolitads.com
 banner.cotedazurpalace.com
 counted.com
@@ -967,7 +963,6 @@ etargetnet.com
 etracker.com
 eurekster.com
 banner.eurogrand.com
-ad.eurosport.com
 evadav.com
 evergage.com
 ads.exactdrive.com
@@ -1457,6 +1452,7 @@ logua.com
 longinglettuce.com
 evs.sgmt.loom.com
 loopme.com
+lop.com
 ads.lordlucky.com
 loudlunch.com
 lp3tdqle.com
@@ -1540,7 +1536,6 @@ minewhat.com
 minormeeting.com
 mintegral.com
 track.miro.com
-sa.api.intl.miui.com
 tracking.intl.miui.com
 tracking.miui.com
 mixedreading.com
@@ -1723,7 +1718,6 @@ oxcash.com
 p2r14.com
 padsbrown.com
 pagefair.com
-pagerank4you.com
 pageranktop.com
 promote.pair.com
 paleleaf.com
@@ -3186,6 +3180,7 @@ questaffiliates.net
 raac33.net
 stats.rdphv.net
 readserver.net
+pixel.app.returnpath.net
 revsci.net
 roxr.net
 rs6.net
@@ -3367,7 +3362,6 @@ begun.ru
 bans.bride.ru
 www-banner.chat.ru
 clck.ru
-matomo.gals24.ru
 matomo.hdweb.ru
 hitlist.ru
 hotlog.ru
@@ -3534,7 +3528,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 68028
+# Ignored duplicates: 68021
 # Ignored entries due to the allowlist: 191
 
 marketing.globalpointofcare.abbott
@@ -8418,6 +8412,7 @@ pornmarket.co
 pornopics.co
 potedly.co
 pixel-geo.prfct.co
+ads.privatemedia.co
 info.prodly.co
 profitmaximizer.co
 profporn.co
@@ -9625,6 +9620,7 @@ www.absoluporn.com
 absolute-live.com
 smetrics.absolute.com
 absolutechicken.com
+absoluteclickscom.com
 smetrics.absolutetotalcare.com
 r4nds.absorba.com
 tk.abt.com
@@ -10663,6 +10659,7 @@ pk.adlandpro.com
 te.adlandpro.com
 trafficex.adlandpro.com
 adtrack.adleadevent.com
+adledge.com
 data.adlermode.com
 stats.adlice.com
 cdn.adligature.com
@@ -22548,6 +22545,7 @@ tracking.corelogic.com
 coreplays.com
 locator1.corevm.com
 locatorpp.corevm.com
+cormast.com
 mdws.cornerstonecu.com
 cc.cornesmotors.com
 cornicesfosses.com
@@ -25645,6 +25643,7 @@ europewebcams.com
 europornstar.com
 geoads.eurorevenue.com
 eurospanker.com
+ad.eurosport.com
 sa.eurosport.com
 ssa.eurosport.com
 ssa.eurosportplayer.com
@@ -34341,7 +34340,6 @@ a8.looop-denki.com
 go.loopnet.com
 marketing.loopnetmail.com
 loot-conveyor.com
-lop.com
 secure.lope4refl.com
 www.lope4refl.com
 lopespublicidade.com
@@ -35954,6 +35952,7 @@ ejpcuw.mitsubishilaval.com
 lp-eq.mitsuichemicals.com
 trust.mitutoyo.com
 tracking.india.miui.com
+sa.api.intl.miui.com
 api.brs.intl.miui.com
 api.collect.data.intl.miui.com
 adv.sec.intl.miui.com
@@ -39847,6 +39846,7 @@ www.page9awry.com
 pardot.pageantmedia.com
 www2.pagecount.com
 pageplop.com
+pagerank4you.com
 tracker.pagero.com
 pagesense.com
 metering.pagesuite.com
@@ -100150,6 +100150,7 @@ freenitrol.ru
 www.freeones.ru
 jwmhqs.fsk.ru
 ftop.ru
+matomo.gals24.ru
 gamelights.ru
 arvb.gamz48qlok.ru
 dsp-image-resizer.gamz48qlok.ru
