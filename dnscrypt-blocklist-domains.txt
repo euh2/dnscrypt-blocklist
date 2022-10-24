@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml ##########
 
-# Ignored duplicates: 101
+# Ignored duplicates: 100
 # Ignored entries due to the allowlist: 14
 
 chameleon.ad
@@ -24,12 +24,10 @@ tracking.wetter.at
 smetrics.10daily.com.au
 ads.fairfax.com.au
 adserver.news.com.au
-ads.ninemsn.com.au
 ads.optusnet.com.au
 ad1.pamedia.com.au
 ad3.pamedia.com.au
 epp.bih.net.ba
-inslco.bar
 adhese.be
 bannermanager.bnr.bg
 ads.delfin.bg
@@ -246,7 +244,6 @@ adminshop.com
 admized.com
 admob.com
 admonitor.com
-adnetinteractive.com
 adnetworkperformance.com
 adnium.com
 adnxs.com
@@ -1645,6 +1642,7 @@ adv.neverbuy.com
 ads.newgrounds.com
 newnudecash.com
 js-agent.newrelic.com
+newsadsppush.com
 newsletter-link.com
 newstarads.com
 nexac.com
@@ -1730,6 +1728,7 @@ marketing.osijek031.com
 outbrain.com
 overconfidentfood.com
 overture.com
+owebanalytics.com
 oxado.com
 oxcash.com
 p2r14.com
@@ -1798,7 +1797,6 @@ pluckytaste.com
 plugrush.com
 li.pmc.com
 ads.pni.com
-pocketmath.com
 ads.pof.com
 pointlesshour.com
 pointroll.com
@@ -3556,7 +3554,6 @@ pixel.watch
 asia999.website
 thebugs.ws
 analytik.xyz
-trk.bad-tool-tell-doubt.xyz
 downloadr.xyz
 sbird.xyz
 trk.us-learn-teacher-poetry.xyz
@@ -3568,7 +3565,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 77871
+# Ignored duplicates: 77868
 # Ignored entries due to the allowlist: 194
 
 marketing.globalpointofcare.abbott
@@ -5131,6 +5128,7 @@ metrics.newsconcierge.com.au
 sc.nick.com.au
 omni.nine.com.au
 somni.nine.com.au
+ads.ninemsn.com.au
 omni.ninemsn.com.au
 somni.ninemsn.com.au
 smetrics.nisbets.com.au
@@ -5393,6 +5391,7 @@ polskapoczta.id-463525262.bar
 ifmsaifnisamdisamdoiasmf.bar
 ifmsainfisamdoisakodmsafia.bar
 ifnaunfsanidmsaidnsafsa.bar
+inslco.bar
 instanthelp852.bar
 ja82y7faysgfy8.bar
 kcmkamckimaciaifka.bar
@@ -12383,6 +12382,7 @@ admin.adnation.com
 api.adnation.com
 adnbdp.com
 adnet.com
+adnetinteractive.com
 srv.adngin.com
 www.adnigma.com
 ad.adnow.com
@@ -41801,7 +41801,6 @@ news-server17-yahoo.com
 news24zoom.com
 news6health.com
 newsaddi.com
-newsadsppush.com
 newsalloy.com
 newsboxgh.com
 www.newsbreak.com
@@ -43944,7 +43943,6 @@ raf.overwolf.com
 tracking.overwolf.com
 tpads.ovguide.com
 ovident.com
-owebanalytics.com
 om.owens-minor.com
 om.owenscorning.com
 owingventr.com
@@ -45230,6 +45228,7 @@ sxjfhh.pnj.com
 subsidies.pnoconsultants.com
 ads.po-zdravidnes.com
 fahmta.pocket-lint.com
+pocketmath.com
 pocketmortyrecipe.com
 pocketmyponstar.com
 pocketoption.com
@@ -123178,6 +123177,7 @@ vinted-polska-rr124.bacaberita.xyz
 bacemay3.xyz
 backlinksseo2.xyz
 bactericid.xyz
+trk.bad-tool-tell-doubt.xyz
 baggerbagg.xyz
 baixaja.xyz
 vah.ballpp.xyz
