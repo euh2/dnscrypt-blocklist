@@ -684,6 +684,7 @@ clickbank.com
 clickbooth.com
 clickboothlnk.com
 clickbrokers.com
+clickcease.com
 clickdensity.com
 clickedyclick.com
 clickfuse.com
@@ -3154,6 +3155,7 @@ revive.haskovo.net
 havamedia.net
 hs-analytics.net
 hsadspixel.net
+hsleadflows.net
 h0.t.hubspotemail.net
 hyperbanner.net
 idealadvertising.net
@@ -3562,7 +3564,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 79121
+# Ignored duplicates: 79123
 # Ignored entries due to the allowlist: 194
 
 marketing.globalpointofcare.abbott
@@ -24529,7 +24531,6 @@ api2.clickaine.com
 mng1.clickalyzer.com
 clickbangpop.com
 clickcash.com
-monitor.clickcease.com
 x.clickcertain.com
 www.clickclick.com
 analytics.clickdimensions.com
@@ -99215,7 +99216,6 @@ i.hqvrporn.net
 hr-efit.net
 hrg-appserver.net
 js.hscollectedforms.net
-js.hsleadflows.net
 app.hstatic.net
 stats.hstatic.net
 htvncdn.net
