@@ -36,7 +36,6 @@ counter.search.bg
 ads.unison.bg
 clickwith.bid
 adnet.biz
-adpenguin.biz
 cloudcoins.biz
 ads.dtpnetwork.biz
 ads.expat-blog.biz
@@ -84,7 +83,6 @@ intnotif.club
 admaster.com.cn
 ads.doit.com.cn
 ip193.cn
-ad.mobstazinc.cn
 6sc.co
 adcel.co
 adk2.co
@@ -1931,7 +1929,6 @@ pxl-mailtracker.com
 pymx5.com
 q1connect.com
 qctop.com
-hlok.qertewrt.com
 qnsr.com
 qrlsx.com
 newnet.qsrch.com
@@ -2424,6 +2421,7 @@ trafficstrategies.com
 trafficswarm.com
 trafficz.com
 traffiq.com
+traildelsfars.com
 ablink.comms.trainline.com
 traktrafficflow.com
 tranquilside.com
@@ -3653,7 +3651,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 96234
+# Ignored duplicates: 96232
 # Ignored entries due to the allowlist: 201
 
 marketing.globalpointofcare.abbott
@@ -6085,6 +6083,7 @@ znajdz-prace.bio
 6ms.biz
 ad-sp.biz
 ad-vice.biz
+adpenguin.biz
 adsyst.biz
 adturtle.biz
 adultads.biz
@@ -10423,6 +10422,7 @@ smetrics.mathworks.cn
 safeurl.maxthon.cn
 mereimpair.cn
 360down7.miiyun.cn
+ad.mobstazinc.cn
 muddyindulgent.cn
 myakqmh.cn
 ncfws.cn
@@ -50384,6 +50384,7 @@ go.qceventplanning.com
 go.qcmakeupacademy.com
 www.qcoldtui1999.com
 qcty-offers.com
+hlok.qertewrt.com
 www.qetup12.com
 qf4e.com
 qfdn3gyfbs.com
@@ -57890,7 +57891,6 @@ traidikhach.com
 traigym.com
 www.trail-viewer.com
 stats.trailblazercoffee.com
-traildelsfars.com
 trailerwmv.com
 trainganh.com
 traingheo.com
