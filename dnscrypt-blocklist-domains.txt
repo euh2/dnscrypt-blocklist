@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml ##########
 
-# Ignored duplicates: 98
+# Ignored duplicates: 97
 # Ignored entries due to the allowlist: 14
 
 chameleon.ad
@@ -297,6 +297,7 @@ adsoftware.com
 adsoldier.com
 adspredictiv.com
 adspsp.com
+adsroller.com
 adstanding.com
 adsupply.com
 adswizz.com
@@ -2732,7 +2733,6 @@ ireklama.cz
 itop.cz
 ad1.kde.cz
 e.kde.cz
-ads.kinobox.cz
 openx2.kytary.cz
 ad.lupa.cz
 ad2.lupa.cz
@@ -2948,7 +2948,6 @@ ads.a-snag-smartmoney.fyi
 lnks.gd
 go.dhs.gov
 go.usa.gov
-gfcim5.gq
 adman.gr
 interactive.forthnet.gr
 bannergrabber.internet.gr
@@ -3125,6 +3124,7 @@ adserver.info7.mx
 2mdn.net
 2o7.net
 4d5.net
+7cnq.net
 abacho.net
 ads.aceweb.net
 ad-balancer.net
@@ -3520,6 +3520,7 @@ ads.nordichardware.se
 reklam.rfsl.se
 tailsweep.se
 webtraffic.se
+hits.sh
 megapu.sh
 ads.citymagazine.si
 ad.xmovies8.si
@@ -3648,7 +3649,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 99417
+# Ignored duplicates: 99416
 # Ignored entries due to the allowlist: 201
 
 marketing.globalpointofcare.abbott
@@ -13739,7 +13740,6 @@ adspserving.com
 content.adspynet.com
 engine.adspynet.com
 ads.adsready.com
-adsroller.com
 ads.adsrvmedia.com
 adsrvr.com
 adsrvus.com
@@ -66544,6 +66544,7 @@ jenpornuj.cz
 smetrics.karcher.cz
 swasc.kaufland.cz
 partner.ketomix.cz
+ads.kinobox.cz
 partner.kokiskashop.cz
 affil.kralovstvi-tiande.cz
 affiliate.kutil.cz
@@ -72854,6 +72855,7 @@ equine.gq
 eralranconfderpa.gq
 fakturo-wnia.gq
 galocon.gq
+gfcim5.gq
 gostosaeatoladinha.gq
 guisamppancre.gq
 handfortiotitac.gq
