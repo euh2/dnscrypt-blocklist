@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml ##########
 
-# Ignored duplicates: 96
+# Ignored duplicates: 98
 # Ignored entries due to the allowlist: 14
 
 chameleon.ad
@@ -110,7 +110,6 @@ wdfl.co
 1-1ads.com
 101com.com
 101order.com
-123freeavatars.com
 affiliate.1800flowers.com
 180searchassistant.com
 1link2020.com
@@ -938,7 +937,6 @@ economicpizzas.com
 ads.economist.com
 ecoupons.com
 edgexads.com
-educationdynamics.com
 effectivemeasure.com
 efficaciouscactus.com
 track.effiliation.com
@@ -3648,7 +3646,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 105915
+# Ignored duplicates: 105913
 # Ignored entries due to the allowlist: 206
 
 marketing.globalpointofcare.abbott
@@ -12703,6 +12701,7 @@ www.123banners.com
 123count.com
 one.123counters.com
 counter.123counts.com
+123freeavatars.com
 123gayporn.com
 123go.com
 123goflix.com
@@ -33302,6 +33301,7 @@ edu-huayu.com
 education-invst.com
 education-trade.com
 go.educationadvanced.com
+educationdynamics.com
 blog.eduelects.com
 edufigueiredo.com
 eduvodafrica.com
