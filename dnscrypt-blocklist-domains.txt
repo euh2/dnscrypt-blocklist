@@ -456,10 +456,10 @@ avenuea.com
 awakebird.com
 awempire.com
 awesomeagreement.com
-awesomeattack.com
 awin1.com
 awzbijw.com
 axiomaticalley.com
+link.axios.com
 axonix.com
 q.azcentral.com
 li.azstarnet.com
@@ -525,7 +525,6 @@ bat.bing.com
 biosda.com
 bitmedianetwork.com
 ads.bittorrent.com
-bizarrebaseball.com
 adserver.bizedge.com
 adserver.bizhat.com
 bizible.com
@@ -1236,7 +1235,6 @@ hfc195b.com
 hgads.com
 highfalutinroom.com
 hightrafficads.com
-hilariouscap.com
 hilariouszinc.com
 oxen.hillcountrytexas.com
 histats.com
@@ -1253,7 +1251,6 @@ ad.hodomobile.com
 hollowafterthought.com
 ads.hollywood.com
 homelycrown.com
-homelysleep.com
 adimages.homestore.com
 honeygoldfish.com
 honorablehall.com
@@ -1507,7 +1504,6 @@ madcpms.com
 madinad.com
 madisonavenue.com
 magicaljoin.com
-magicalmonth.com
 magnificentmist.com
 track.mailerlite.com
 mantisadnetwork.com
@@ -1653,7 +1649,6 @@ mysteriousmonth.com
 metrics.mzstatic.com
 n69.com
 nappyattack.com
-naradxb.com
 liquidad.narrowcastmedia.com
 nastydollars.com
 touchclarity.natwest.com
@@ -1856,7 +1851,6 @@ analytics.posttv.com
 ads.powweb.com
 predictad.com
 premium-offers.com
-presentbedroom.com
 presetrabbits.com
 previousplayground.com
 previouspotato.com
@@ -2163,7 +2157,6 @@ smilingcattle.com
 smilingwaves.com
 smoggysnakes.com
 smrtb.com
-snailscart.com
 snapads.com
 app-analytics.snapchat.com
 app-analytics-v2.snapchat.com
@@ -2208,7 +2201,6 @@ logs.spilgames.com
 tracker-pm2.spilleren.com
 spinnaker-js.com
 spirebaboon.com
-spitefulstop.com
 post.spmailtechno.com
 spookysleet.com
 spotlessstamp.com
@@ -2331,7 +2323,6 @@ tendertest.com
 b-s.tercept.com
 serve.tercept.com
 terriblethumb.com
-teststocking.com
 text-link-ads.com
 textlinks.com
 the-ozone-project.com
@@ -2466,7 +2457,6 @@ ultramercial.com
 ultraoranges.com
 track.ultravpn.com
 unarmedindustry.com
-unbecomingbikes.com
 unbecominglamp.com
 ads.uncrate.com
 understoodocean.com
@@ -2676,7 +2666,6 @@ yoggrt.com
 youradexchange.com
 adjuggler.yourdictionary.com
 ads.youtube.com
-z3dmbpl6309s.com
 zangocash.com
 zanox.com
 zantracker.com
@@ -2791,6 +2780,7 @@ foo.cosmocode.de
 coupling-media.de
 deloo.de
 ad.domainfactory.de
+domainsteam.de
 doubleclick.de
 emetriq.de
 etracker.de
@@ -2918,7 +2908,6 @@ simpli.fi
 oas.benchmark.fr
 pub.club-internet.fr
 e-m.fr
-ads.groupewin.fr
 pub.hardware.fr
 leadplace.fr
 f7ds.liberation.fr
@@ -2974,7 +2963,6 @@ adstacks.in
 domaining.in
 analytics.htmedia.in
 analytics.bitrix.info
-clicktrace.info
 t.notif-colissimo-laposte.info
 prchecker.info
 shermore.info
@@ -3632,7 +3620,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 111444
+# Ignored duplicates: 111441
 # Ignored entries due to the allowlist: 197
 
 eos.ac
@@ -38546,6 +38534,7 @@ napiszex.com
 naplo-extra.com
 protection.napolice.com
 naqvisports.com
+naradxb.com
 nargystores.com
 static.narrativ.com
 narutohentaidb.com
@@ -56347,6 +56336,7 @@ z-promo.com
 stat1.z-stat.com
 sx.z0rz.com
 z28camaro.com
+z3dmbpl6309s.com
 0lxgotowkanakarcie.za.com
 0wgje.za.com
 1cpym.za.com
@@ -57385,7 +57375,6 @@ deisterkoeche.de
 ads.directcorp.de
 adserver.directcorp.de
 dohrmann-projekt.de
-domainsteam.de
 xanax-online.dot.de
 alleogro.pl.dreifgmbh.de
 smetrics.e-wie-einfach.de
@@ -60316,6 +60305,7 @@ greffetc-paris.fr
 grooveshark.fr
 grossiste3d.fr
 groupeauto.fr
+ads.groupewin.fr
 groupom.fr
 ad.groupon.fr
 partner-ts.groupon.fr
@@ -63102,6 +63092,7 @@ classroomnovel.info
 aftership-dpd-polska.cleansite.info
 pc.clickmedias.info
 sp.clickmedias.info
+clicktrace.info
 clipbongda.info
 clocher.info
 clodnera.info
