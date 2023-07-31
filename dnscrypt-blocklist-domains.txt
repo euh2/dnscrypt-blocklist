@@ -2497,7 +2497,6 @@ venturead.com
 vericlick.com
 spinbox.versiontracker.com
 vertamedia.com
-verticalmass.com
 ads.verticalresponse.com
 vervewireless.com
 a.vfghd.com
@@ -3267,7 +3266,6 @@ adserver.portugalmail.net
 primetime.net
 pro-market.net
 pubnative.net
-questaffiliates.net
 raac33.net
 stats.rdphv.net
 readserver.net
@@ -3388,7 +3386,6 @@ track.nationalgunrights.org
 click.nl.npr.org
 openads.org
 ads.opensubtitles.org
-ads.phpclasses.org
 prebid.org
 adsystem.simplemachines.org
 trustx.org
@@ -3612,7 +3609,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 120570
+# Ignored duplicates: 120567
 # Ignored entries due to the allowlist: 201
 
 eos.ac
@@ -54681,6 +54678,7 @@ scripts.verticalacuity.com
 syn.verticalacuity.com
 verticalerson.com
 verticalislands.com
+verticalmass.com
 ads.verticalscope.com
 api.verticalscope.com
 h.verticalscope.com
@@ -80588,6 +80586,7 @@ quatvn.net
 quaytay.net
 queermenow.net
 querverweis.net
+questaffiliates.net
 quize-sale.net
 quizzitch.net
 qwertty.net
@@ -86015,6 +86014,7 @@ phimsextrungquoc.org
 phimsexvietnam.org
 phimsexy.org
 phimxes.org
+ads.phpclasses.org
 phun.org
 picsfuck.org
 pidepk.org
