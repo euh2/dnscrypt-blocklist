@@ -1460,6 +1460,7 @@ tag.links-analytics.com
 linkshighway.com
 linkstorms.com
 linkswaper.com
+linksynergy.com
 linktarget.com
 analytics.live.com
 liveadexchanger.com
@@ -3092,6 +3093,7 @@ adserver.info7.mx
 2o7.net
 4d5.net
 7cnq.net
+bestbuy.7tiv.net
 abacho.net
 ads.aceweb.net
 ad-balancer.net
@@ -3607,7 +3609,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 122887
+# Ignored duplicates: 122893
 # Ignored entries due to the allowlist: 204
 
 eos.ac
@@ -38033,12 +38035,6 @@ linkshit.com
 cdn.linksmart.com
 linksmartcontract.com
 linkssd.com
-ad.linksynergy.com
-banner.linksynergy.com
-cli.linksynergy.com
-ads.rd.linksynergy.com
-amp.rd.linksynergy.com
-track.linksynergy.com
 linkusup.com
 images.linkwithin.com
 images3.linkwithin.com
