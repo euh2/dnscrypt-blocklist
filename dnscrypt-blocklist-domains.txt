@@ -3,7 +3,7 @@
 ########## Blocklist from https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml ##########
 
 # Ignored duplicates: 102
-# Ignored entries due to the allowlist: 14
+# Ignored entries due to the allowlist: 16
 
 chameleon.ad
 content.ad
@@ -412,6 +412,7 @@ anstrex.com
 ad.anuntis.com
 anxiousapples.com
 apathetictheory.com
+app-measurement.com
 appboycdn.com
 ads.appsgeyser.com
 is-tracking-pixel-api-prod.appspot.com
@@ -3615,7 +3616,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 124800
+# Ignored duplicates: 124801
 # Ignored entries due to the allowlist: 204
 
 eos.ac
@@ -15164,7 +15165,6 @@ app-4849.com
 app-findmyweb.com
 app-gametry.com
 app-infinity.com
-app-measurement.com
 app-mycloud.com
 gpay.app-pl.com
 app-transaction-payment-help.com
