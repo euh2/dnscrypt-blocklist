@@ -1279,7 +1279,6 @@ tracking.ibxlink.com
 tracker.icerocket.com
 look.ichlnk.com
 metrics.icloud.com
-iconpeak2trk.com
 analytics.icons8.com
 icptrack.com
 ads.icq.com
@@ -3363,7 +3362,6 @@ ads.nzcity.co.nz
 somniture.stuff.co.nz
 webads.co.nz
 ads.xtra.co.nz
-webstats.one
 tracking.theoceanac.online
 adblade.org
 analytics.adpost.org
@@ -3462,7 +3460,6 @@ top100.mafia.ru
 top.mail.ru
 counter.mojgorod.ru
 musiccounter.ru
-mypagerank.ru
 p.nag.ru
 ntvk1.ru
 owebmoney.ru
@@ -3616,7 +3613,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 125692
+# Ignored duplicates: 125689
 # Ignored entries due to the allowlist: 204
 
 eos.ac
@@ -35178,6 +35175,7 @@ icomhd.com
 icon-live.com
 ad.iconadserver.com
 metrics.iconfitness.com
+iconpeak2trk.com
 iconsofalkebulan.com
 icoocash.com
 icoodvd.com
@@ -88333,6 +88331,7 @@ voday.one
 low-plus808-ol-ix.waitingarea.one
 sky-club311-in-npot.waitingarea.one
 websex.one
+webstats.one
 dellveryollx3445.wendell87.one
 del1ver-inpomt2834.wenpolsk82.one
 del1ver-inpomt6378.wentspey76.one
@@ -112171,6 +112170,7 @@ faktinvestmetns.mya5.ru
 mycomicsxxx.ru
 myetherwallet.ru
 virginworld.mylivepage.ru
+mypagerank.ru
 naproverku.ru
 nashvektor.ru
 nesaporn.ru
