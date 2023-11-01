@@ -2466,7 +2466,6 @@ adserving.unibet.com
 oas.uniontrib.com
 ad.universcine.com
 unknowntray.com
-unless.com
 unrulymedia.com
 untd.com
 untidyquestion.com
@@ -3481,6 +3480,7 @@ a.ucoz.ru
 warlog.ru
 yadro.ru
 adsdk.yandex.ru
+appmetrica.yandex.ru
 bs.yandex.ru
 blogtoplist.se
 stat.cliche.se
@@ -3615,7 +3615,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 94881
+# Ignored duplicates: 94880
 # Ignored entries due to the allowlist: 210
 
 eos.ac
@@ -57697,6 +57697,7 @@ unjav.com
 unlashmatr.com
 unlatchsng.com
 unleashbar.com
+unless.com
 unlessyouwill.com
 unlimiclick.com
 access.unlimitedaccesspass.com
