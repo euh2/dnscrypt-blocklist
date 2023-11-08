@@ -3300,7 +3300,6 @@ incoming-telemetry.thunderbird.net
 tia.timeinc.net
 ads.tmcs.net
 ads.as4x.tmcs.net
-topgamesites.net
 trackedlink.net
 trackedweb.net
 trafficjunky.net
@@ -3614,7 +3613,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 96040
+# Ignored duplicates: 96039
 # Ignored entries due to the allowlist: 213
 
 eos.ac
@@ -80384,6 +80383,7 @@ top16.net
 topadblocker.net
 topfreeporn.net
 topgaixinh.net
+topgamesites.net
 topleaks.net
 topsites24.net
 www.topxxxlist.net
