@@ -3329,6 +3329,7 @@ analytics.mobile.yandex.net
 yieldlab.net
 yieldmanager.net
 ads.yldmgrimg.net
+yoads.net
 zdbb.net
 stat.zenon.net
 zqtk.net
@@ -3617,7 +3618,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 97975
+# Ignored duplicates: 97976
 # Ignored entries due to the allowlist: 220
 
 eos.ac
@@ -81856,7 +81857,6 @@ yinpingshan.net
 ymlp111.net
 ymlporn.net
 ymlporn7.net
-yoads.net
 yogaporn.net
 analytics.yolacdn.net
 paincake.yoll.net
