@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml ##########
 
-# Ignored duplicates: 98
+# Ignored duplicates: 115
 # Ignored entries due to the allowlist: 17
 
 content.ad
@@ -134,6 +134,7 @@ aaddzz.com
 ads.aavv.com
 aaxads.com
 aaxdetect.com
+abackafterthought.com
 abackchain.com
 abackframe.com
 abandonedaction.com
@@ -160,6 +161,7 @@ actonsoftware.com
 actualdeals.com
 actuallysheep.com
 actuallysnake.com
+actuallything.com
 acuityads.com
 acuityplatform.com
 ad-cupid.com
@@ -317,6 +319,7 @@ adv-adserver.com
 advangelists.com
 advariant.com
 adventory.com
+adventurousamount.com
 ads.adverline.com
 adverticum.com
 advertise.com
@@ -403,6 +406,7 @@ ancientact.com
 sidebar.angelfire.com
 mediax.angloinfo.com
 mediaz.angloinfo.com
+angossa.com
 aniview.com
 ads.annabac.com
 annoyedairport.com
@@ -411,6 +415,7 @@ anstrex.com
 ad.anuntis.com
 anxiousapples.com
 app-measurement.com
+apparatuslip.com
 appboycdn.com
 ads.appsgeyser.com
 is-tracking-pixel-api-prod.appspot.com
@@ -511,6 +516,7 @@ bigbangmedia.com
 ads.bigchurch.com
 bigclicks.com
 ads.bigfoot.com
+bikesboard.com
 ads.bing.com
 adserver.bing.com
 bat.bing.com
@@ -567,10 +573,12 @@ adsfeed.brabys.com
 braincash.com
 brand-display.com
 brandreachsys.com
+brandybison.com
 breadbalance.com
 breakableinsurance.com
 brealtime.com
 bridgetrack.com
+briefstem.com
 brightcom.com
 brightinfo.com
 brightmountainmedia.com
@@ -731,6 +739,8 @@ comfortablecheese.com
 commissionmonster.com
 commonswing.com
 compactbanner.com
+comparereaction.com
+compiledoctor.com
 completecabbage.com
 complextoad.com
 concernedcondition.com
@@ -745,6 +755,7 @@ consensad.com
 ads.contactmusic.com
 track.contently.com
 contextweb.com
+controlcola.com
 converge-digital.com
 conversantmedia.com
 conversionbet.com
@@ -932,6 +943,7 @@ efficaciouscactus.com
 track.effiliation.com
 ejyymghi.com
 elasticchange.com
+elasticducks.com
 ads.elcarado.com
 elderlyscissors.com
 elderlytown.com
@@ -951,11 +963,13 @@ emodoinc.com
 emptyescort.com
 emxdigital.com
 t.en25.com
+encourageidea.com
 encouragingwilderness.com
 endurableshop.com
 energeticladybug.com
 engagebdr.com
 engageya.com
+engineertrick.com
 enginenetwork.com
 enormousearth.com
 enquisite.com
@@ -982,6 +996,7 @@ clicks.eventbrite.com
 eventexistence.com
 evergage.com
 pgl.example.com
+exampleshake.com
 exchange-it.com
 exchangead.com
 exchangeclicksonline.com
@@ -990,6 +1005,7 @@ exclusivebrass.com
 exelate.com
 exelator.com
 assets1.exgfnetwork.com
+exhibitsneeze.com
 tracking.exipure.com
 exit76.com
 exitexchange.com
@@ -1001,6 +1017,7 @@ explorads.com
 expmediadirect1.com
 exponea.com
 exponential.com
+extractobservation.com
 extreme-dm.com
 extremetracking.com
 eyeblaster.com
@@ -1044,6 +1061,7 @@ firstlightera.com
 t.firstpromoter.com
 firsttexture.com
 spot.fitness.com
+fixedfold.com
 flairadscpc.com
 flakyfeast.com
 flashtalking.com
@@ -1076,6 +1094,7 @@ smetrics.foxnews.com
 fpctraffic.com
 fpctraffic2.com
 fqtag.com
+frailflock.com
 frailoffer.com
 free-banners.com
 freebanner.com
@@ -1113,6 +1132,7 @@ fusionquest.com
 futuristicapparatus.com
 futuristicfairies.com
 futuristicfifth.com
+futuristicframe.com
 fuzzybasketball.com
 fuzzyflavor.com
 fuzzyweather.com
@@ -1340,6 +1360,7 @@ intelliads.com
 intelligenceadx.com
 intercom-clicks.com
 intergi.com
+internalcondition.com
 internetfuel.com
 inventionpassenger.com
 invitesugar.com
@@ -1469,10 +1490,12 @@ livelylaugh.com
 livelyreward.com
 ads.livenation.com
 liverail.com
+livingsleet.com
 li.livingsocial.com
 lizardslaugh.com
 lkqd.com
 loading321.com
+loadsurprise.com
 locked4.com
 lockerdome.com
 locpub.com
@@ -1577,6 +1600,7 @@ mintegral.com
 minusmental.com
 minuterhythm.com
 track.miro.com
+mittencattle.com
 tracking.intl.miui.com
 tracking.miui.com
 mix2ads.com
@@ -1610,6 +1634,7 @@ monsterpops.com
 clicks.monzo.com
 mookie1.com
 mopub.com
+motionlessmeeting.com
 motionspots.com
 aserv.motorsgate.com
 mousestats.com
@@ -1646,6 +1671,7 @@ mysteriousmonth.com
 metrics.mzstatic.com
 n69.com
 nappyattack.com
+nappyneck.com
 liquidad.narrowcastmedia.com
 nastydollars.com
 navegg.com
@@ -1695,6 +1721,7 @@ ad.nozonedata.com
 npttech.com
 nullitics.com
 nuseek.com
+nutritiousbean.com
 nuttyorganization.com
 click.nvgaming.nvidia.com
 adserver.nydailynews.com
@@ -1749,6 +1776,7 @@ optmnstr.com
 optmstr.com
 optnmstr.com
 optnx.com
+orionember.com
 tracking.orixa-media.com
 marketing.osijek031.com
 outbrain.com
@@ -1758,6 +1786,7 @@ owebanalytics.com
 oxado.com
 oxcash.com
 p2r14.com
+paddleangle.com
 padsbrown.com
 pagefair.com
 pageranktop.com
@@ -1832,6 +1861,7 @@ pointroll.com
 pokkt.com
 analytics.poolshool.com
 popmyads.com
+popplantation.com
 popub.com
 popupmoney.com
 popupnation.com
@@ -1860,6 +1890,8 @@ privatecash.com
 prmtracking.com
 pro-advertising.com
 naj22.proasdf.com
+probablepartner.com
+processplantation.com
 producecopy.com
 segment-cdn.producthunt.com
 proext.com
@@ -1889,8 +1921,8 @@ psychedelicchess.com
 ptoushoa.com
 pubdirecte.com
 publicidees.com
+publicsofa.com
 wdads.sx.atl.publicus.com
-pubmatic.com
 pubmine.com
 puffyloss.com
 puffypaste.com
@@ -1923,6 +1955,7 @@ tls.telemetry.swe.quicinc.com
 quicksandear.com
 quietknowledge.com
 quinst.com
+quirkysugar.com
 quisma.com
 quizzicalzephyr.com
 rabbitrifle.com
@@ -1933,6 +1966,7 @@ radiateprose.com
 railwayrainstorm.com
 railwayreason.com
 rambunctiousflock.com
+rambunctiousvoyage.com
 rampidads.com
 rankingscout.com
 rankyou.com
@@ -1974,6 +2008,7 @@ regnow.com
 regularplants.com
 reklamdsp.com
 relmaxtop.com
+rememberdiscussion.com
 remox.com
 resalag.com
 resolutekey.com
@@ -2000,6 +2035,7 @@ rightstats.com
 ringplant.com
 ringsrecord.com
 ritzykey.com
+ritzyrepresentative.com
 rlcdn.com
 rmgserving.com
 ads1.rne.com
@@ -2008,6 +2044,7 @@ oas.roanoke.com
 roar.com
 robotreplay.com
 logs.roku.com
+rollconnection.com
 rotabanner.com
 roughroll.com
 rtbadzesto.com
@@ -2088,6 +2125,8 @@ stats2.self.com
 sendmepixel.com
 ads.seniorfriendfinder.com
 separatesilver.com
+seraphichorizon.com
+serendipityecho.com
 serpentshampoo.com
 serv0.com
 servedby-buysellads.com
@@ -2178,6 +2217,7 @@ click.email.sonos.com
 sordidsmile.com
 sordidstation.com
 sortable.com
+sortsail.com
 emaillinks.soundiiz.com
 click.i.southwesternrailway.com
 benefits.sovendus.com
@@ -2249,6 +2289,7 @@ stickyadstv.com
 stiffgame.com
 stimulatingsneeze.com
 stomachscience.com
+stopstomach.com
 storesurprise.com
 stormyachiever.com
 stoveseashore.com
@@ -2283,6 +2324,7 @@ swan-swan-goose.com
 swankysquare.com
 analytics.swiggy.com
 swimslope.com
+swingslip.com
 swordfishdc.com
 swordgoose.com
 synonymoussticks.com
@@ -2340,6 +2382,7 @@ therapistla.com
 ads.thestar.com
 thinkablerice.com
 tracking.thinkabt.com
+thinkitten.com
 thirdrespect.com
 thirstytwig.com
 thomastorch.com
@@ -2474,6 +2517,7 @@ untd.com
 untidyquestion.com
 unusualtitle.com
 unwieldyhealth.com
+unwieldyimpulse.com
 unwrittenspot.com
 ad.usatoday.com
 ads.usatoday.com
@@ -2544,6 +2588,7 @@ vivtracking.com
 vmmpxl.com
 ads.vnumedia.com
 voicefive.com
+voicelessvein.com
 adtrack.voicestar.com
 voicevegetable.com
 volatilevessel.com
@@ -2562,6 +2607,7 @@ tracking01.walmart.com
 warmafterthought.com
 ng3.ads.warnerbros.com
 waryfog.com
+washbanana.com
 smetrics.washingtonpost.com
 wateryvan.com
 wearbasin.com
@@ -2608,6 +2654,7 @@ wirypaste.com
 wisepops.com
 distillery.wistia.com
 pipedream.wistia.com
+wittypopcorn.com
 wizaly.com
 wlmarketing.com
 womanear.com
@@ -3613,7 +3660,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 100889
+# Ignored duplicates: 100888
 # Ignored entries due to the allowlist: 221
 
 eos.ac
@@ -49749,6 +49796,7 @@ netflixkontoplnd.publicvm.com
 nflixplkonto.publicvm.com
 publicxxxvideo.com
 analytics.publitas.com
+pubmatic.com
 ads.pubsqrd.com
 pubted.com
 puertoricoflyfishing.com
