@@ -1466,7 +1466,6 @@ linktarget.com
 linkvertise.com
 analytics.live.com
 liveadexchanger.com
-adv.livedoor.com
 liveintent.com
 livelylaugh.com
 livelyreward.com
@@ -1933,7 +1932,6 @@ quantcount.com
 quantserve.com
 quantummetric.com
 quarterbean.com
-ads.quasaraffiliates.com
 tls.telemetry.swe.quicinc.com
 quicksandear.com
 quietknowledge.com
@@ -2881,6 +2879,7 @@ sponsorads.de
 sponsorpro.de
 stats.stb-ottow.de
 superclix.de
+surfmusik-adserver.de
 ads.syscdn.de
 banner.tanto.de
 targad.de
@@ -3629,7 +3628,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 124779
+# Ignored duplicates: 124778
 # Ignored entries due to the allowlist: 219
 
 cin.ac
@@ -53711,6 +53710,7 @@ livechatporn.com
 livechich.com
 livecointrades.com
 livedoor-plus.com
+adv.livedoor.com
 counter2.blog.livedoor.com
 image.click.livedoor.com
 livefreecamx.com
@@ -66210,6 +66210,7 @@ quantums-trade.com
 quantumxtrading.com
 quaradigitalsolutions.com
 quartexindustries.com
+ads.quasaraffiliates.com
 quasralb.com
 quaztion.com
 qubble.com
@@ -85837,7 +85838,6 @@ mb-cdn.stocard.de
 strassenstrich-parkplatzsex.de
 www.super8service.de
 support-ups-parcel.de
-surfmusik-adserver.de
 im.banner.t-online.de
 stats.tchncs.de
 reports.teamemo-solutions.de
