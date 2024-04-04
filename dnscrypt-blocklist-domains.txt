@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml ##########
 
-# Ignored duplicates: 125
+# Ignored duplicates: 127
 # Ignored entries due to the allowlist: 17
 
 content.ad
@@ -2543,7 +2543,6 @@ vibrantsundown.com
 sourcepoint.vice.com
 vidcpm.com
 videoadex.com
-videoamp.com
 videoegg.com
 vidora.com
 track.viewdeos.com
@@ -2995,6 +2994,7 @@ track.themaccleanup.info
 ads.twojatv.info
 1rx.io
 adalliance.io
+adnami.io
 adserve.io
 apolloprogram.io
 augur.io
@@ -79349,6 +79349,7 @@ ads.videoadvertising.com
 videoamateurporn.com
 id.videoamatorialexxx.com
 videoamatorialigratuiti.com
+videoamp.com
 videoangels.com
 videobonporn.com
 videobox.com
@@ -93436,7 +93437,6 @@ stats.abbi.io
 ad.abema.io
 adapex.io
 api.publishers.adlive.io
-macro.adnami.io
 ortb.adpearl.io
 balticpipe.adsquiz.io
 assets.adstage.io
