@@ -390,7 +390,6 @@ americash.com
 ad.amgdgt.com
 ads.amigos.com
 banners.amigos.com
-ampleclick.com
 track.anchorfree.com
 ancientact.com
 sidebar.angelfire.com
@@ -1079,7 +1078,6 @@ ads.foxnetworks.com
 metrics.foxnews.com
 smetrics.foxnews.com
 fpctraffic.com
-fpctraffic2.com
 fqtag.com
 frailflock.com
 frailoffer.com
@@ -1221,7 +1219,6 @@ li.hearstmags.com
 services.hearstmags.com
 subscribe.hearstmags.com
 aps.hearstnp.com
-heias.com
 hellobar.com
 helpcollar.com
 hentaicounter.com
@@ -2217,7 +2214,6 @@ specificpop.com
 ads10.speedbit.com
 speedomizer.com
 speedshiftmedia.com
-gekko.spiceworks.com
 px.spiceworks.com
 spidersboats.com
 spiffymachine.com
@@ -2721,7 +2717,6 @@ matomo.activate.cz
 advisormedia.cz
 adserver.anawe.cz
 bm.annonce.cz
-banner.cz
 bannery.cz
 billboard.cz
 ad.centrum.cz
@@ -2851,7 +2846,6 @@ megawerbung.de
 adserver1.mindshare.de
 adserver2.mindshare.de
 banner.mindshare.de
-mlm.de
 clicks.mods.de
 mr-rank.de
 ad.nachtagenten.de
@@ -3089,7 +3083,6 @@ thirdparty.bnc.lt
 i-i.lt
 hits.puls.lv
 ads.radio1.lv
-topsite.lv
 adf.ly
 adbilty.me
 awstrack.me
@@ -3549,7 +3542,6 @@ breaktime.com.tw
 hotrank.com.tw
 ox1.shopcool.com.tw
 bbn.img.com.ua
-affiliates.rozetka.com.ua
 hit.ua
 stat24.meta.ua
 mycounter.ua
@@ -3630,7 +3622,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 96365
+# Ignored duplicates: 96357
 # Ignored entries due to the allowlist: 201
 
 cin.ac
@@ -16413,6 +16405,7 @@ amourhub.com
 amoviemedia.com
 amp-hoki.com
 amped-services.com
+ampleclick.com
 amplified100.com
 smetrics.amplifon.com
 amplifyinteractions.com
@@ -35813,6 +35806,7 @@ join.foxyjacky.com
 foxyreviews.com
 fpcclicks.com
 www.fpcpopunder.com
+fpctraffic2.com
 fpfreegals.com
 fphentai.com
 smetrics.fpl.com
@@ -39808,6 +39802,7 @@ hegrebeauties.com
 hegrehunter.com
 hegrevr.com
 cams.heheparty.com
+heias.com
 promo.heidiscandy.com
 dl.heima8.com
 heimporno.com
@@ -60947,6 +60942,7 @@ sperrybuty.com
 spicevids.com
 landing.spicevidsgay.com
 www.spicevidsgay.com
+gekko.spiceworks.com
 spicy-amateurs.com
 spicy-fuck.com
 spicyandventures.com
@@ -73013,6 +73009,7 @@ smetrics.airbank.cz
 angelclub.cz
 angelina.cz
 ad41.atlas.cz
+banner.cz
 www.bezpasaka.cz
 bigporno.cz
 a.blesk.cz
@@ -73414,6 +73411,7 @@ www.megacounter.de
 metrics.mein-jahnreisen.de
 microwinds.de
 adserver.mindshare.de
+mlm.de
 promo.mobile.de
 mein.monster.de
 mydirtyhobby.de
@@ -82877,6 +82875,7 @@ chaturbate.lv
 knc.lv
 puh.lv
 rigaescortgirls.lv
+topsite.lv
 ewills.access.ly
 count.ly
 apv-launcher.minute.ly
@@ -115420,6 +115419,7 @@ scripts.mycounter.com.ua
 myetherwallet.com.ua
 adnet.pravda.com.ua
 quantstamp.com.ua
+affiliates.rozetka.com.ua
 www.smaxim.com.ua
 topescort.com.ua
 counter.topping.com.ua
