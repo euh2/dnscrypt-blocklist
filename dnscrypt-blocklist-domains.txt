@@ -99,6 +99,7 @@ logger.snackly.co
 t.co
 log.videocampaign.co
 wdfl.co
+t.x.co
 1-1ads.com
 101com.com
 101order.com
@@ -1439,6 +1440,7 @@ lfeeder.com
 lfstmedia.com
 ad.lgappstv.com
 lgsmartad.com
+click.email.lhh.com
 liadm.com
 liftdna.com
 ligatus.com
@@ -3580,7 +3582,6 @@ click.comm.rcibank.co.uk
 analytics.santander.co.uk
 ads.sift.co.uk
 specificmedia.co.uk
-webtrends.telegraph.co.uk
 ads.trinitymirror.co.uk
 em1.yoursantander.co.uk
 zencudo.co.uk
@@ -3611,7 +3612,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 100092
+# Ignored duplicates: 100091
 # Ignored entries due to the allowlist: 205
 
 cin.ac
@@ -118363,6 +118364,7 @@ tabordvd.co.uk
 smetrics.talkaboutlaminitis.co.uk
 smetrics.telegraph.co.uk
 stats.telegraph.co.uk
+webtrends.telegraph.co.uk
 www.thebigoutdoors.co.uk
 theestatehouse.co.uk
 www.thelesbianproject.co.uk
