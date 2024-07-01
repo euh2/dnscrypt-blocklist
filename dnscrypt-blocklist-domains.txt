@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml ##########
 
-# Ignored duplicates: 104
+# Ignored duplicates: 103
 # Ignored entries due to the allowlist: 17
 
 content.ad
@@ -67,7 +67,6 @@ admanagement.ch
 banner.buempliz-online.ch
 ads.watson.ch
 adserver.bdoce.cl
-acid-adserver.click
 walkets.click
 intnotif.club
 admaster.com.cn
@@ -326,7 +325,6 @@ adwhirl.com
 adworldnetwork.com
 adxpansion.com
 adxpose.com
-adyea.com
 adyoulike.com
 adz2you.com
 adzbazar.com
@@ -954,6 +952,7 @@ fallaciousfifth.com
 fam-ad.com
 farethief.com
 farmergoldfish.com
+fast-redirecting.com
 fastclick.com
 fastly-insights.com
 ads.fasttrack-ignite.com
@@ -1993,7 +1992,6 @@ servethis.com
 serving-sys.com
 sessioncam.com
 sexcounter.com
-sexinyourcity.com
 sexlist.com
 sextracker.com
 shakegoldfish.com
@@ -3020,7 +3018,6 @@ everesttech.net
 evyy.net
 eyeota.net
 fastclick.net
-fineoffer.net
 ads.footymad.net
 ads.forbes.net
 forex-affiliate.net
@@ -3076,8 +3073,6 @@ movad.net
 mxptint.net
 myads.net
 mypagerank.net
-mystat-in.net
-mytop-in.net
 nedstatbasic.net
 nend.net
 neocounter.neoworx-blog-tools.net
@@ -3106,7 +3101,6 @@ pubnative.net
 pureclarity.net
 raac33.net
 stats.rdphv.net
-readserver.net
 roxr.net
 rs6.net
 rtbplatform.net
@@ -3340,7 +3334,6 @@ truehits1.gits.net.th
 truehits2.gits.net.th
 cpx.to
 fingahvf.top
-adap.tv
 adapt.tv
 affec.tv
 alphonso.tv
@@ -3438,7 +3431,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 111976
+# Ignored duplicates: 111969
 # Ignored entries due to the allowlist: 206
 
 cin.ac
@@ -9608,6 +9601,7 @@ www.xnxx.claims
 rus.365porno.click
 4ur.click
 aa7vgmjjsz.click
+acid-adserver.click
 acornperception.click
 actualforge.click
 acutesound.click
@@ -15798,6 +15792,7 @@ www.adxserve.com
 adxtti.com
 dw.adyboh.com
 wy.adyboh.com
+adyea.com
 adywind.com
 setting.adzcore.com
 adzerk.com
@@ -37560,7 +37555,6 @@ fashoroma.com
 fashpolis.com
 fast-and-now.com
 fast-lms.com
-fast-redirecting.com
 fastandslut.com
 fastasiansex.com
 fastbfp.com
@@ -65994,6 +65988,7 @@ sexindrag.com
 sexinfo101.com
 sexinsexy.com
 sexinsport.com
+sexinyourcity.com
 sexiseks.com
 sexislive.com
 sexitorrent.com
@@ -97999,6 +97994,7 @@ findaporn.net
 findhername.net
 findxxx.net
 fine-tv.net
+fineoffer.net
 ads.fingersoft.net
 ads3.fingersoft.net
 finsgirls.net
@@ -99761,9 +99757,11 @@ myserviceconnect.net
 mysexvids.net
 mysexyphotos.net
 mysexyteens.net
+mystat-in.net
 mytaboo.net
 mytabu.net
 myteenphotos.net
+mytop-in.net
 myupstrackingservices.net
 myvisualiq.net
 mywifesex.net
@@ -100760,6 +100758,7 @@ diazepam.razma.net
 webstats.web.rcn.net
 rdnp.net
 rdtel.net
+readserver.net
 real-virgins.net
 realanalmovies.net
 realbdsmporn.net
@@ -127798,6 +127797,7 @@ www.youngporn.tube
 www.69porn.tv
 7mmtv.tv
 999hentai.tv
+adap.tv
 adolf.tv
 adult-porn.tv
 adsrv.advanced-television.tv
