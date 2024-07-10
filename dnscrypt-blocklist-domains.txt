@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml ##########
 
-# Ignored duplicates: 103
+# Ignored duplicates: 104
 # Ignored entries due to the allowlist: 17
 
 content.ad
@@ -1312,6 +1312,7 @@ telemetrics.klaviyo.com
 klclick.com
 klclick1.com
 klsdee.com
+knitstamp.com
 knorex.com
 knottyswing.com
 komoona.com
@@ -1743,6 +1744,7 @@ previousplayground.com
 previouspotato.com
 partners.priceline.com
 priceypies.com
+pricklydebt.com
 priefy.com
 ads.printscr.com
 ads.prisacom.com
@@ -2435,6 +2437,8 @@ webstat.com
 webtrackerplus.com
 webtracky.com
 webtrendslive.com
+report-1.appmetrica.webvisor.com
+report-2.appmetrica.webvisor.com
 webxcdn.com
 wellmadefrog.com
 welved.com
@@ -3147,6 +3151,8 @@ whoisonline.net
 worldwide-cash.net
 wt-eu02.net
 xq1.net
+report.appmetrica.yandex.net
+report-partners.appmetrica.yandex.net
 analytics.mobile.yandex.net
 yieldlab.net
 yieldmanager.net
@@ -3304,8 +3310,8 @@ tns-counter.ru
 a.ucoz.ru
 warlog.ru
 yadro.ru
+report.ap.yandex-net.ru
 adsdk.yandex.ru
-appmetrica.yandex.ru
 bs.yandex.ru
 blogtoplist.se
 stat.cliche.se
@@ -101092,7 +101098,6 @@ yachtcats.net
 yahhooo.net
 flury-ycpi.gycpi.b.yahoodns.net
 yakety.net
-report.appmetrica.yandex.net
 startup.mobile.yandex.net
 video-preview.s3.yandex.net
 yandexadexchange.net
@@ -113508,6 +113513,7 @@ yaebus11.ru
 gov.yanao.ru
 advertising.yandex.ru
 an.yandex.ru
+appmetrica.yandex.ru
 bs-meta.yandex.ru
 informer.yandex.ru
 kiks.yandex.ru
