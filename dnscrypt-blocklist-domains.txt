@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml ##########
 
-# Ignored duplicates: 102
+# Ignored duplicates: 103
 # Ignored entries due to the allowlist: 17
 
 content.ad
@@ -10,6 +10,7 @@ ads.emirates.net.ae
 cognitiv.ai
 analytics.jst.ai
 m2.ai
+paa-reporting-advertising.amazon
 matomo.crossiety.app
 analytics.lucid.app
 unidentifiedanalytics.web.app
@@ -75,6 +76,7 @@ ip193.cn
 adcel.co
 adk2.co
 algorix.co
+ayads.co
 cs.co
 customads.co
 erne.co
@@ -1082,6 +1084,7 @@ video-stats.video.google.com
 googleanalytics.com
 clientmetrics-pa.googleapis.com
 crashlyticsreports-pa.googleapis.com
+ogads-pa.googleapis.com
 wintricksbanner.googlepages.com
 googlesyndication.com
 googletagmanager.com
@@ -1776,6 +1779,7 @@ pubdirecte.com
 publicidees.com
 publicsofa.com
 wdads.sx.atl.publicus.com
+ads.pubmatic.com
 aud.pubmatic.com
 bid.pubmatic.com
 clicktrack.pubmatic.com
@@ -1887,6 +1891,7 @@ reyden-x.com
 rhombusads.com
 rhythmone.com
 adserve.ams.rhythmxchange.com
+richaudience.com
 richmails.com
 richstring.com
 rightstats.com
@@ -2091,6 +2096,7 @@ spywords.com
 srvmath.com
 srvtrck.com
 srwww1.com
+sskzlabs.com
 stack-sonar.com
 stackadapt.com
 stakingsmile.com
@@ -2745,6 +2751,7 @@ pub.hardware.fr
 leadplace.fr
 f7ds.liberation.fr
 ads.multimania.lycos.fr
+mediasquare.fr
 sbx.pagesjaunes.fr
 eule1.pmu.fr
 links.prosservice.fr
@@ -3431,7 +3438,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 116472
+# Ignored duplicates: 116481
 # Ignored entries due to the allowlist: 209
 
 cin.ac
@@ -13154,14 +13161,6 @@ asianteenporn.co
 stats.atrl.co
 augurproject.co
 axes.co
-ads.ayads.co
-antenna.ayads.co
-antenna-apse.ayads.co
-antenna-us.ayads.co
-cdn.ayads.co
-geoworker.ayads.co
-optchk.ayads.co
-sac.ayads.co
 www.babesandgirls.co
 badclick.co
 www.bangland.co
@@ -64434,7 +64433,6 @@ netfix-info-pl.publicvm.com
 publicxxxvideo.com
 publishtale.com
 analytics.publitas.com
-ads.pubmatic.com
 aktrack.pubmatic.com
 apps.pubmatic.com
 gads.pubmatic.com
