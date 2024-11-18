@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml ##########
 
-# Ignored duplicates: 102
+# Ignored duplicates: 101
 # Ignored entries due to the allowlist: 17
 
 content.ad
@@ -50,7 +50,6 @@ softclick.com.br
 ads.todoti.com.br
 topsites.com.br
 ads.cbc.ca
-metrics.ctv.ca
 smetrics.ctv.ca
 d2cmedia.ca
 districtm.ca
@@ -921,7 +920,6 @@ exchangeclicksonline.com
 exclusivebrass.com
 exelate.com
 exelator.com
-assets1.exgfnetwork.com
 exhibitsneeze.com
 exit76.com
 exitexchange.com
@@ -1373,7 +1371,6 @@ loading321.com
 loadsurprise.com
 locked4.com
 lockerdome.com
-locpub.com
 xtracker.logimeter.com
 logsss.com
 logua.com
@@ -1647,7 +1644,6 @@ outbrain.com
 overconfidentfood.com
 overkick.com
 overture.com
-owebanalytics.com
 oxado.com
 oxcash.com
 pagefair.com
@@ -1655,7 +1651,6 @@ pageranktop.com
 painstakingpickle.com
 promote.pair.com
 paleleaf.com
-panickycurtain.com
 panickypancake.com
 panoramicplane.com
 parchedsofa.com
@@ -1761,7 +1756,6 @@ click.e.progressive.com
 projectwonderful.com
 promobenef.com
 pronetadvertising.com
-proof-x.com
 propellerads.com
 propellerclick.com
 protectcrev.com
@@ -1770,7 +1764,6 @@ protestcopy.com
 proton-tm.com
 protraffic.com
 provenpixel.com
-provexia.com
 prpops.com
 prsitecheck.com
 ads.psd2html.com
@@ -1864,7 +1857,6 @@ click.redditmail.com
 ads.rediff.com
 redirectingat.com
 redirectvoluum.com
-reduxmedia.com
 referralware.com
 oascentral.register.com
 regnow.com
@@ -1974,7 +1966,6 @@ searchmarketing.com
 searchramp.com
 secretspiders.com
 securedopen-bp.com
-securely-protectsoft.com
 sedoparking.com
 sedotracker.com
 cdn.segment.com
@@ -2062,7 +2053,6 @@ sombersurprise.com
 somoaudience.com
 sonobi.com
 click.email.sonos.com
-sordidsmile.com
 sortable.com
 emaillinks.soundiiz.com
 click.i.southwesternrailway.com
@@ -2137,7 +2127,6 @@ email.mg1.substack.com
 succeedscene.com
 sugoicounter.com
 sulkycook.com
-summerhamster.com
 summerobject.com
 sumo.com
 sumome.com
@@ -2292,7 +2281,6 @@ trustpid.com
 tsyndicate.com
 tubemogul.com
 adclient1.tucows.com
-vs.tucows.com
 tumbleicicle.com
 adserver.tupolska.com
 turboadv.com
@@ -2614,7 +2602,6 @@ adspirit.de
 adsponse.de
 adtech.de
 adtiger.de
-adverticus.de
 advertmedia.de
 auto-bannertausch.de
 bannerads.de
@@ -2628,7 +2615,6 @@ foo.cosmocode.de
 coupling-media.de
 deloo.de
 ad.domainfactory.de
-domainsteam.de
 doubleclick.de
 emetriq.de
 etracker.de
@@ -2677,7 +2663,6 @@ pagerank-ranking.de
 partnercash.de
 peep-auktion.de
 pr-star.de
-praddpro.de
 ad.profiwin.de
 cgicounter.puretec.de
 quarterserver.de
@@ -2778,7 +2763,6 @@ ad.gt
 prf.hn
 ads.deltha.hu
 sher.index.hu
-keymedia.hu
 audit.median.hu
 ad.mediastorm.hu
 toplista.mw.hu
@@ -3374,8 +3358,6 @@ stat24.meta.ua
 mycounter.ua
 a5.overclockers.ua
 ads.pfl.ua
-tracking.28-91473-wbm.co.uk
-tracking.39-bb4a9-osm.co.uk
 tracking.42-01pr5-osm-secure.co.uk
 tracking.5-47737-bi.co.uk
 adskeeper.co.uk
@@ -3406,7 +3388,6 @@ ads.tripod.lycos.co.uk
 hit.webcentre.lycos.co.uk
 metadsp.co.uk
 stats.mirrorfootball.co.uk
-moneyexpert.co.uk
 ads2.net-communities.co.uk
 ads.newsint.co.uk
 ads.newsquest.co.uk
@@ -3446,7 +3427,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 89645
+# Ignored duplicates: 89626
 # Ignored entries due to the allowlist: 190
 
 blossom.ac
@@ -5881,6 +5862,7 @@ metrics.corus.ca
 smetrics.corus.ca
 smetrics.costco.ca
 cstrespsurvey.ca
+metrics.ctv.ca
 s.curiocity.ca
 analytics.directenergy.ca
 drivingschoolburlington.ca
@@ -25266,6 +25248,7 @@ executivedeliverydealer.com
 exemirates.com
 adserver.exgfnetwork.com
 adserver2.exgfnetwork.com
+assets1.exgfnetwork.com
 exgfpass.com
 exgfphotos.com
 exgfsbucks.com
@@ -37246,6 +37229,7 @@ lockheed3.com
 loclipnong.com
 locnuoctuongvuong.com
 locototo.com
+locpub.com
 locsud.com
 api.locuslabs.com
 assets.locuslabs.com
@@ -43891,6 +43875,7 @@ tpads.ovguide.com
 ovoandegg.com
 owdhwhei8-8282jwisjdbwjs.com
 owdj0.com
+owebanalytics.com
 owlandstag.com
 owldata.com
 own-eu-cloud.com
@@ -44072,6 +44057,7 @@ pandoratube.com
 bestalla-17c276-home-pl-control.panel-homepl.com
 smetrics.panerabread.com
 pangky.com
+panickycurtain.com
 panochasyculos.com
 panorama-guesthouse.com
 panstoys.com
@@ -47730,6 +47716,7 @@ pronhubhd.com
 prontoadd.com
 pronudism.com
 pronxxx24.com
+proof-x.com
 prooffactor.com
 api.proofpositivemedia.com
 proofreed.com
@@ -47786,6 +47773,7 @@ provencalseries.com
 provencart.com
 provenfeedback.com
 cdn.provesrc.com
+provexia.com
 smetrics.provincial.com
 www.provintageporn.com
 prowess-partners.com
@@ -48970,6 +48958,7 @@ redtubelesbian.com
 redtubelive.com
 redtubepremium.com
 reducelnk.com
+reduxmedia.com
 ads.reduxmediagroup.com
 www.reduxmediia.com
 redwap-cdn.com
@@ -50862,6 +50851,7 @@ track.securedvisit.com
 28.securefinds2.com
 securegfm.com
 secureind.com
+securely-protectsoft.com
 securemetro.com
 c.securepaths.com
 www.securepaths.com
@@ -53371,6 +53361,7 @@ sopornclips.com
 sopornhub.com
 sopornmovies.com
 sopornvideos.com
+sordidsmile.com
 soroka-hospital.com
 sortporn.com
 soruzon.com
@@ -54413,6 +54404,7 @@ sumatraslimbellytonicc-us.com
 suministrossgi.com
 summerbodyketoacv.com
 aff.summercart.com
+summerhamster.com
 www.summersinners.com
 summertimesaga.com
 summitcomfortky.com
@@ -58281,6 +58273,7 @@ tubtictic.com
 tubxporn.com
 tubxxxporn.com
 tuccus.com
+vs.tucows.com
 tudanovinha.com
 tudasfaja.com
 tudaskor.com
@@ -65447,6 +65440,7 @@ partners.adklick.de
 regio.adlink.de
 ads.adtube.de
 www.adult-tracker.de
+adverticus.de
 www.aektschen.de
 agentur-angelina.de
 ahasex.de
@@ -65528,6 +65522,7 @@ deutschporntv.de
 ads.directcorp.de
 adserver.directcorp.de
 dirk-schlichting.de
+domainsteam.de
 xanax-online.dot.de
 smetrics.e-wie-einfach.de
 e-zeitung.de
@@ -65686,6 +65681,7 @@ pornohubs.de
 pornospiele3d.de
 pornpics.de
 www.potenzblue.de
+praddpro.de
 pretty-angels.de
 profiline-berlin.de
 bn.profiwin.de
@@ -69685,6 +69681,7 @@ counter.jasmin.hu
 www.kapu.hu
 karat.hu
 kemenyszex.hu
+keymedia.hu
 kupak.hu
 laborex.hu
 leszbi-szex.hu
@@ -103869,7 +103866,9 @@ adultchat.uk
 amazonco.uk
 cardonenergy.uk
 121phonesex.co.uk
+tracking.28-91473-wbm.co.uk
 2step-garage.co.uk
+tracking.39-bb4a9-osm.co.uk
 3dporn.co.uk
 www.9malls.co.uk
 abacusfinance.co.uk
@@ -104045,6 +104044,7 @@ monetisetrk3.co.uk
 monetisetrk4.co.uk
 monetisetrk5.co.uk
 monetisetrk6.co.uk
+moneyexpert.co.uk
 msbehaviour.co.uk
 mybean.co.uk
 mycashback.co.uk
