@@ -473,6 +473,7 @@ bfmio.com
 campaign.bharatmatrimony.com
 bhcumsc.com
 bidclix.com
+bidsopt.com
 bidtellect.com
 adsby.bidtheatre.com
 bidvertiser.com
@@ -508,7 +509,6 @@ blogherads.com
 popunhot1.blogspot.com
 blogtopsites.com
 counter.bloke.com
-blueadvertise.com
 blueconic.com
 bluekai.com
 bluelithium.com
@@ -2232,7 +2232,6 @@ tracking101.com
 tracking22.com
 trackingsoft.com
 trackmysales.com
-trackuhub.com
 tradeadexchange.com
 tradedoubler.com
 traffic-exchange.com
@@ -2443,6 +2442,7 @@ engage.windows.com
 ads.wineenthusiast.com
 wirecomic.com
 wirypaste.com
+ablink.info.wise.com
 wisepops.com
 distillery.wistia.com
 pipedream.wistia.com
@@ -3427,7 +3427,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 89716
+# Ignored duplicates: 89711
 # Ignored entries due to the allowlist: 194
 
 blossom.ac
@@ -16583,7 +16583,6 @@ bidgear-syndication.com
 bidivoo.com
 cdn.bidmatrixdsp.com
 us-trk.bidmatrixdsp.com
-bidsopt.com
 server.bidstack.com
 ads.bidstreamserver.com
 bidsystem.com
@@ -17486,6 +17485,11 @@ bltpandae.com
 affiliate.blucigs.com
 bluhostedbanners.blucigs.com
 bludreamsxxx.com
+adserver2.blueadvertise.com
+cbpublishing.blueadvertise.com
+cdxninteractive.blueadvertise.com
+creditburner.blueadvertise.com
+my.blueadvertise.com
 cdn.bluebillywig.com
 stats.bluebillywig.com
 vms.bluebillywig.com
@@ -57424,6 +57428,7 @@ siroya.trackmygreatclicks.com
 toha.trackmygreatclicks.com
 tracksitetraffic1.com
 tracksy.com
+trackuhub.com
 api.trackuity.com
 static.trackuity.com
 trackvoluum.com
