@@ -3,7 +3,7 @@
 ########## Blocklist from https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml ##########
 
 # Ignored duplicates: 101
-# Ignored entries due to the allowlist: 17
+# Ignored entries due to the allowlist: 16
 
 content.ad
 ads.emirates.net.ae
@@ -509,7 +509,6 @@ blogherads.com
 popunhot1.blogspot.com
 blogtopsites.com
 counter.bloke.com
-blueadvertise.com
 blueconic.com
 bluekai.com
 bluelithium.com
@@ -1029,7 +1028,6 @@ fwcdn1.com
 fwcdn2.com
 offer.fyber.com
 gadsbee.com
-galaxien.com
 game-advertising-online.com
 track.game18click.com
 gamesites200.com
@@ -1392,6 +1390,7 @@ magsrv.com
 track.mailerlite.com
 telemetry.malwarebytes.com
 mantisadnetwork.com
+mapcommand.com
 adfeed.marchex.com
 ppc.adhere.marchex.com
 call-ad-network-api.marchex.com
@@ -3199,6 +3198,7 @@ crypto-loot.org
 ad1.emule-project.org
 ad.exyws.org
 fireads.org
+go.first.org
 alchemist.go2cloud.org
 ads.heartlight.org
 go.icann.org
@@ -3435,7 +3435,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 86931
+# Ignored duplicates: 86925
 # Ignored entries due to the allowlist: 200
 
 blossom.ac
@@ -17168,6 +17168,11 @@ bltpandae.com
 affiliate.blucigs.com
 bluhostedbanners.blucigs.com
 bludreamsxxx.com
+adserver2.blueadvertise.com
+cbpublishing.blueadvertise.com
+cdxninteractive.blueadvertise.com
+creditburner.blueadvertise.com
+my.blueadvertise.com
 cdn.bluebillywig.com
 stats.bluebillywig.com
 vms.bluebillywig.com
@@ -27395,6 +27400,7 @@ galacticmonsterquest.com
 galacticsmonitor.com
 galagif.com
 galasti.com
+galaxien.com
 galaxyappliances-gcc.com
 galaxydevs.com
 galaxyprimefx.com
