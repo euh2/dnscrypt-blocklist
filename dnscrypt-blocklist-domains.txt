@@ -98,7 +98,6 @@ t.co
 log.videocampaign.co
 wdfl.co
 t.x.co
-1-1ads.com
 101com.com
 affiliate.1800flowers.com
 180searchassistant.com
@@ -553,7 +552,6 @@ log.btopenworld.com
 staticads.btopenworld.com
 btrll.com
 bttrack.com
-ads.bumq.com
 buysellads.com
 buzzonclick.com
 mon.byteoversea.com
@@ -745,6 +743,7 @@ links.email.crunchbase.com
 crystalboulevard.com
 curtaincows.com
 cushiondrum.com
+customeriomail.com
 cutechin.com
 cxense.com
 cyberbounty.com
@@ -931,7 +930,6 @@ exponential.com
 extractobservation.com
 extreme-dm.com
 extremetracking.com
-eyeblaster.com
 eyeviewads.com
 eyewonder.com
 ezula.com
@@ -1099,7 +1097,6 @@ grouchybrothers.com
 groundtruth.com
 ads.gsm-exchange.com
 ads.gsmexchange.com
-gstaticx.com
 guardeddirection.com
 guardedschool.com
 gunggo.com
@@ -1558,8 +1555,6 @@ ads.newgrounds.com
 newnudecash.com
 js-agent.newrelic.com
 newsadsppush.com
-newsletter-link.com
-newstarads.com
 nexac.com
 nexage.com
 stats.nextgen-email.com
@@ -2352,7 +2347,6 @@ a.vfghd.com
 a.vfgtb.com
 ads.vgchartz.com
 vgnp3trk.com
-vibrantmedia.com
 vibrantsundown.com
 sourcepoint.vice.com
 vidcpm.com
@@ -2795,6 +2789,7 @@ ads.sjon.info
 spotscenered.info
 track.themaccleanup.info
 mylead-tracking.tracknow.info
+ads.twojatv.info
 1rx.io
 adalliance.io
 adnami.io
@@ -2864,7 +2859,6 @@ adv.hwupgrade.it
 ilead.itrack.it
 static.itrack.it
 ads.tripod.lycos.it
-ads.mariuana.it
 tracker.mmdlv.it
 adv.mpvc.it
 marketing.net.occhiali24.it
@@ -2911,6 +2905,7 @@ mydas.mobi
 adservice.google.com.mt
 ads.independent.com.mt
 kmpiframe.keepmeposted.com.mt
+ato.mx
 adserver.info7.mx
 207.net
 2mdn.net
@@ -3149,7 +3144,6 @@ zqtk.net
 go-link.network
 pub.network
 adpepper.nl
-adscience.nl
 adworx.nl
 bannermarkt.nl
 belstat.nl
@@ -3435,7 +3429,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 89969
+# Ignored duplicates: 89962
 # Ignored entries due to the allowlist: 203
 
 blossom.ac
@@ -9432,6 +9426,7 @@ dns.0pengl.com
 0poi.com
 0stats.com
 adv.0tub.com
+1-1ads.com
 1-800-phonesex.com
 1-bmo-client-login.com
 1-free-share-buttons.com
@@ -18104,6 +18099,7 @@ bumamyo.com
 bumcams.com
 bumiasripasaman.com
 bumpzinthenite.com
+ads.bumq.com
 bumsbuero.com
 bumsbus.com
 bumsfilme.com
@@ -25032,6 +25028,7 @@ exxxtrasmall.com
 exxxtrasmall1.com
 smetrics.ey.com
 eye2see.com
+eyeblaster.com
 eyebrowssoftware.com
 cm.eyereturn.com
 eyereact.eyereturn.com
@@ -29550,6 +29547,7 @@ gsinghexpress.com
 a.gsmarena.com
 adsnew.gsmarena.com
 csi.gstatic.com
+gstaticx.com
 gt8club.com
 gtamyhomeworth.com
 gtanutrition.com
@@ -41332,6 +41330,7 @@ newsindians.com
 newsinsightloop.com
 newskincompany.com
 gcirm.newsleader.com
+newsletter-link.com
 newslivetoday365.com
 newsmakeinstin.com
 oascentral.newsmax.com
@@ -41344,6 +41343,7 @@ ssl.newsofnp.com
 newsovietpicture.com
 newsprofin.com
 newsspypro.com
+newstarads.com
 newstartcounsellingservicesinc.com
 analytics.newsvine.com
 newswindorbit.com
@@ -59009,6 +59009,7 @@ ads.cdn.viber.com
 locp-ir.viber.com
 vibrampolskasale.com
 vibrantboard.com
+vibrantmedia.com
 vibrasian.com
 vibrationsensations.com
 vibrogame.com
@@ -71138,7 +71139,6 @@ turkishairines.info
 twankle.info
 twilightmaze.info
 setebos.twjkd.info
-ads.twojatv.info
 txxx.info
 ufym.info
 uggirgthh.info
@@ -71811,6 +71811,7 @@ lupopornohd.it
 utenti.lycos.it
 manufacta-italia.it
 marcofama.it
+ads.mariuana.it
 maturaporno.it
 matureporno.it
 maxtek.it
@@ -76185,7 +76186,6 @@ user-stats.rbl.ms
 wasd.ms
 smarine.mu
 accounts.mx
-ato.mx
 smetrics.bbva.mx
 blackbass.mx
 angelsscort.com.mx
@@ -82950,6 +82950,7 @@ dashboard.adcalls.nl
 dashboardnew.adcalls.nl
 adfactor.nl
 admost.nl
+adscience.nl
 adultstation.nl
 adverterenbijnh.nl
 www.adverterenbijrtl.nl
