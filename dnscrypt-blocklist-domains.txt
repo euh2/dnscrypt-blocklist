@@ -156,7 +156,6 @@ adblade.com
 adblockanalytics.com
 adbot.com
 adbrite.com
-adbunker.com
 adbutler.com
 adcampo.com
 adcannyads.com
@@ -991,7 +990,6 @@ fwcdn1.com
 fwcdn2.com
 offer.fyber.com
 gadsbee.com
-galaxien.com
 game-advertising-online.com
 gamesites200.com
 adcontent.gamespy.com
@@ -1263,7 +1261,6 @@ kompasads.com
 ads.kompass.com
 adserver.kontent.com
 kontera.com
-kubient.com
 l6b587txj1.com
 lakequincy.com
 lameletters.com
@@ -1482,6 +1479,7 @@ n69.com
 data.namesakeoscilloscopemarquis.com
 nappyattack.com
 nappyneck.com
+liquidad.narrowcastmedia.com
 nastydollars.com
 navegg.com
 ncaudienceexchange.com
@@ -2960,7 +2958,6 @@ lifeimpressions.net
 ads.lifethink.net
 munchkin.marketo.net
 users.maxcluster.net
-maximiser.net
 media.net
 utils.mediageneral.net
 meetrics.net
@@ -3193,6 +3190,8 @@ clck.ru
 hitlist.ru
 hotlog.ru
 inetlog.ru
+click.kmindex.ru
+counting.kmindex.ru
 lbn.ru
 top.list.ru
 top100.mafia.ru
@@ -3339,7 +3338,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 104150
+# Ignored duplicates: 104149
 # Ignored entries due to the allowlist: 267
 
 blossom.ac
@@ -12197,6 +12196,7 @@ sp.adbrn.com
 static.l3.cdn.adbucks.com
 adbuddiz.com
 adbuka.com
+adbunker.com
 ab163949.adbutler-kaon.com
 ab159015.adbutler-zilon.com
 adcanadian.com
@@ -30762,6 +30762,7 @@ galacticmonsterquest.com
 galacticwarriorempire.com
 galagif.com
 galasti.com
+galaxien.com
 galaxyappliances-gcc.com
 galaxyprimefx.com
 galemed-tw.com
@@ -39397,6 +39398,7 @@ metrics.ktvb.com
 d1.kuai8.com
 kualitasdental.com
 kubiaktech.com
+kubient.com
 kubikwood.com
 kubota-pl.com
 kubyhoy.com
@@ -45456,7 +45458,6 @@ narffco.com
 nark0nteks.com
 narodni-radio-dijaspora.com
 static.narrativ.com
-liquidad.narrowcastmedia.com
 narutohentaidb.com
 narutohentaisexxx.com
 assets.narvar.com
@@ -86886,6 +86887,7 @@ maturs.net
 mawar88s.net
 maxclinic.net
 maxibulls.net
+maximiser.net
 www.maxregistrycleaner.net
 maxtracker.net
 service.maxymiser.net
@@ -103165,8 +103167,6 @@ kittlez.ru
 klaksonplus.ru
 klassjob.ru
 rateme.km.ru
-click.kmindex.ru
-counting.kmindex.ru
 knigaperm.ru
 korolevstvo-club.ru
 koshgara.ru
