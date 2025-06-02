@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml ##########
 
-# Ignored duplicates: 100
+# Ignored duplicates: 99
 # Ignored entries due to the allowlist: 16
 
 content.ad
@@ -725,14 +725,12 @@ ads.dailycamera.com
 dakic-ia-300.com
 damageddistance.com
 damdoor.com
-dancemistake.com
 dc-storm.com
 de17a.com
 dealdotcom.com
 decenterads.com
 decisivebase.com
 decisivedrawer.com
-decoycreation.com
 deepintent.com
 web2.deja.com
 gp.dejanews.com
@@ -981,7 +979,6 @@ fwcdn1.com
 fwcdn2.com
 offer.fyber.com
 gadsbee.com
-galaxien.com
 game-advertising-online.com
 gamesites200.com
 adcontent.gamespy.com
@@ -1366,7 +1363,6 @@ mediaplex.com
 mediatext.com
 mediavine.com
 mediavoice.com
-mediumshort.com
 medleyads.com
 medyanetads.com
 ads.meetcelebs.com
@@ -1458,7 +1454,6 @@ muteknife.com
 muwmedia.com
 ads.mvscoelho.com
 myaffiliateprogram.com
-mybetterdl.com
 mybloglog.com
 mybuys.com
 media-adrunner.mycomputer.com
@@ -1785,7 +1780,6 @@ oascentral.register.com
 regularplants.com
 reklamdsp.com
 relmaxtop.com
-reloadphoto.com
 rememberdiscussion.com
 remox.com
 resalag.com
@@ -2947,7 +2941,6 @@ lifeimpressions.net
 ads.lifethink.net
 munchkin.marketo.net
 users.maxcluster.net
-maximiser.net
 media.net
 utils.mediageneral.net
 meetrics.net
@@ -3327,7 +3320,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 126760
+# Ignored duplicates: 126755
 # Ignored entries due to the allowlist: 280
 
 camcaps.ac
@@ -25554,6 +25547,7 @@ dancadar.com
 dance-holic.com
 dance-leggings.com
 dancelatn.com
+dancemistake.com
 danceschoolphoto.com
 dancingbear.com
 dancingwiththewind.com
@@ -25918,6 +25912,7 @@ decoradmon.com
 decorarisimo.com
 decorativemodels.com
 decorsoleil.com
+decoycreation.com
 ded-labs.com
 dedalussolutions.com
 contact.dedanite.com
@@ -44676,6 +44671,7 @@ mediterraneansummerwedding.com
 mediterrianbest.com
 meditopsthailand.com
 popit.mediumpimpin.com
+mediumshort.com
 medivance247.com
 medleybrand.com
 medlightcr.com
@@ -46783,6 +46779,7 @@ p232207.mybestmv.com
 mybestsproducts.com
 mybesturea.com
 mybestxtube.com
+mybetterdl.com
 mybgbgclojp.com
 mybglogistics.com
 mybigtitsbabes.com
@@ -56315,6 +56312,7 @@ reloaday.com
 reloading-page1.com
 reloadinnovacion.com
 reloadinput.com
+reloadphoto.com
 relojchic.com
 relty-goods.com
 rema-energy.com
