@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml ##########
 
-# Ignored duplicates: 99
+# Ignored duplicates: 98
 # Ignored entries due to the allowlist: 16
 
 content.ad
@@ -111,7 +111,6 @@ install.365-stream.com
 3lift.com
 4info.com
 4jnzhl0d0.com
-50websads.com
 518ad.com
 ads.73dpi.com
 777partner.com
@@ -567,7 +566,6 @@ cashengines.com
 cashfiesta.com
 cashpartner.com
 ads.casinocity.com
-casinopays.com
 casinorewards.com
 casinotraffic.com
 ads.casumoaffiliates.com
@@ -727,12 +725,14 @@ ads.dailycamera.com
 dakic-ia-300.com
 damageddistance.com
 damdoor.com
+dancemistake.com
 dc-storm.com
 de17a.com
 dealdotcom.com
 decenterads.com
 decisivebase.com
 decisivedrawer.com
+decoycreation.com
 deepintent.com
 web2.deja.com
 gp.dejanews.com
@@ -759,7 +759,6 @@ digestiondrawer.com
 ads.digital-digest.com
 ad.digitallook.com
 ads.digitalmedianet.com
-digitalmerkat.com
 ads.digitalpoint.com
 geo.digitalpoint.com
 adserver.digitoday.com
@@ -925,7 +924,6 @@ fixedfold.com
 flairadscpc.com
 flakyfeast.com
 flashtalking.com
-fleshlightcash.com
 flexbanner.com
 track.flexlinks.com
 track.flexlinkspro.com
@@ -1300,7 +1298,6 @@ linkvertise.com
 liveadexchanger.com
 liveintent.com
 livelylaugh.com
-livelyreward.com
 ads.livenation.com
 liverail.com
 livingsleet.com
@@ -1452,7 +1449,6 @@ rmads.msn.com
 mstrlytcs.com
 mtree.com
 mundanenail.com
-mundanepollution.com
 ad.musicmatch.com
 muteknife.com
 muwmedia.com
@@ -2564,8 +2560,6 @@ ads.quoka.de
 rankchamp.de
 ranking-charts.de
 ranking-hits.de
-ranking-links.de
-ranking-liste.de
 rankingchart.de
 banner.reinstil.de
 scripte-monster.de
@@ -2574,7 +2568,6 @@ sponsorads.de
 sponsorpro.de
 stats.stb-ottow.de
 superclix.de
-surfmusik-adserver.de
 ads.syscdn.de
 banner.tanto.de
 targad.de
@@ -3117,7 +3110,6 @@ clickonometrics.pl
 direct-re2.pl
 adv.donejty.pl
 adserver.echdk.pl
-go-redirect.pl
 banners.iq.pl
 ads.liberte.pl
 microstatic.pl
@@ -3323,7 +3315,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 138983
+# Ignored duplicates: 138975
 # Ignored entries due to the allowlist: 289
 
 camcaps.ac
@@ -13384,6 +13376,7 @@ lilangels4u.50megs.com
 50plusmilfs.com
 50raziones.com
 search4you.50webs.com
+50websads.com
 50yearoldsluts.com
 5197248-trckp05t.com
 51ginkgo.com
@@ -23559,6 +23552,7 @@ casinohost8.com
 casinohuts.com
 casinomegareviews.com
 casinonowagering.com
+casinopays.com
 banner.casinotropez.com
 smetrics.casio.com
 caslemedia.com
@@ -26963,7 +26957,6 @@ dancadar.com
 dance-holic.com
 dance-leggings.com
 dancelatn.com
-dancemistake.com
 danceschoolphoto.com
 dancingbear.com
 dancingwiththewind.com
@@ -27345,7 +27338,6 @@ decoradmon.com
 decorarisimo.com
 decorativemodels.com
 decorsoleil.com
-decoycreation.com
 decycoin.com
 ded-labs.com
 dedalussolutions.com
@@ -27978,6 +27970,7 @@ digitalhealthboost.com
 digitalhotkey.com
 digitalmathactivities.com
 adserver.digitalmedianet.com
+digitalmerkat.com
 digitalmse.com
 digitalmuzaffargarh.com
 digitalnmedia.com
@@ -32532,6 +32525,7 @@ fleshed.com
 fleshhole.com
 www.fleshjack.com
 fleshlight.com
+fleshlightcash.com
 fleshlightgirls.com
 fleshlyx.com
 flesopry.com
@@ -45427,6 +45421,7 @@ interia-24-pl.livejournal.com
 interia-info.livejournal.com
 twojenewsy24pl.livejournal.com
 livelifetribe.com
+livelyreward.com
 livematureporn.com
 livematurewebcams.com
 livemediahost.com
@@ -49448,6 +49443,7 @@ mumswrite.com
 www.mumu-net.com
 mun-team.com
 munalmedical.com
+mundanepollution.com
 mundoacrilico.com
 mundohentaioficial.com
 ve.mundosexanuncio.com
@@ -79408,6 +79404,8 @@ bn.profiwin.de
 manage.protected-area-21.de
 adserv.quality-channel.de
 erotik.quoka.de
+ranking-links.de
+ranking-liste.de
 ads.realmedia.de
 refrisfolg.de
 reifenquick.de
@@ -79481,6 +79479,7 @@ stefb777.de
 mb-cdn.stocard.de
 strassenstrich-parkplatzsex.de
 www.super8service.de
+surfmusik-adserver.de
 im.banner.t-online.de
 fotos.take-a-luc.de
 telefonsexpalast.de
@@ -107573,6 +107572,7 @@ facebookszpieg.glt.pl
 iqtestuj.glt.pl
 qpodgladacz.glt.pl
 viewerfb.glt.pl
+go-redirect.pl
 goatstamina.pl
 gojiberry500.pl
 google-team.pl
