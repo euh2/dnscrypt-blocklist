@@ -609,7 +609,6 @@ cj.com
 cjbmanagement.com
 cjlog.com
 cl0udh0st1ng.com
-claria.com
 ads.clasificadox.com
 click.classmates.com
 ga.clearbit.com
@@ -3090,6 +3089,7 @@ alchemist.go2cloud.org
 ads.heartlight.org
 go.icann.org
 adserve.jbs.org
+ads.mozilla.org
 ads-img.mozilla.org
 incoming.telemetry.mozilla.org
 ads.muslimehelfen.org
@@ -3316,7 +3316,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 140976
+# Ignored duplicates: 140975
 # Ignored entries due to the allowlist: 288
 
 camcaps.ac
@@ -24250,6 +24250,7 @@ www.videolove.clanteam.com
 clapdat.com
 claradeevids.com
 metcoc5cm.clarent.com
+claria.com
 gcirm.clarionledger.com
 claritycheck.com
 clarivumon.com
