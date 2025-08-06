@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml ##########
 
-# Ignored duplicates: 98
+# Ignored duplicates: 99
 # Ignored entries due to the allowlist: 16
 
 content.ad
@@ -76,7 +76,6 @@ cs.co
 customads.co
 erne.co
 fave.co
-feathr.co
 ablinks.mail.hinge.co
 jads.co
 cdn.keywee.co
@@ -2092,6 +2091,7 @@ theadex.com
 theadhost.com
 link.theatlantic.com
 hits.theguardian.com
+themangotea.com
 themoneytizer.com
 ads.themovienation.com
 therapistla.com
@@ -3313,7 +3313,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 142410
+# Ignored duplicates: 142409
 # Ignored entries due to the allowlist: 288
 
 camcaps.ac
@@ -12246,6 +12246,7 @@ faphard.co
 faproulette.co
 trd.fargix.co
 fbsecurity.co
+feathr.co
 fileconvertpro.co
 filmexxx.co
 findgoodfood.co
