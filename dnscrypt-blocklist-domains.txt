@@ -10,6 +10,7 @@ ads.emirates.net.ae
 cognitiv.ai
 analytics.jst.ai
 m2.ai
+a.vdo.ai
 paa-reporting-advertising.amazon
 matomo.crossiety.app
 analytics.lucid.app
@@ -597,6 +598,7 @@ chargecracker.com
 chartbeat.com
 chartboost.com
 ads.cheabit.com
+clicks.checkatrade.com
 cherriescare.com
 pub.chez.com
 oascentral.chicagobusiness.com
@@ -643,6 +645,7 @@ clk1011.com
 clk1015.com
 clkrev.com
 clksite.com
+ade.clmbtech.com
 cloudflareinsights.com
 cloudguppy.com
 clrstm.com
@@ -2689,6 +2692,7 @@ pix.spot.im
 adsolut.in
 adstacks.in
 domaining.in
+growthrx.in
 analytics.htmedia.in
 email-link.adtidy.info
 analytics.bitrix.info
@@ -3332,7 +3336,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 69137
+# Ignored duplicates: 69138
 # Ignored entries due to the allowlist: 187
 
 camcaps.ac
@@ -18232,7 +18236,6 @@ clkoffers.com
 click.clktraker.com
 clktrk.com
 clloodbeds.com
-ade.clmbtech.com
 ase.clmbtech.com
 cade.clmbtech.com
 case.clmbtech.com
