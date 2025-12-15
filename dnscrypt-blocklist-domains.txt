@@ -67,6 +67,7 @@ securemetrics.apple.com.cn
 ads.doit.com.cn
 ip193.cn
 6sc.co
+adcel.co
 algorix.co
 ayads.co
 cs.co
@@ -519,8 +520,6 @@ boudja.com
 bounceexchange.com
 ads.boylesports.com
 bpath.com
-ads.brabys.com
-adsfeed.brabys.com
 braincash.com
 brand-display.com
 brandreachsys.com
@@ -676,6 +675,7 @@ comfortablecheese.com
 commissionmonster.com
 compactbanner.com
 comparereaction.com
+compilework.com
 pixel.condenastdigital.com
 conditionchange.com
 conductrics.com
@@ -700,6 +700,7 @@ coremetrics.com
 cosmosjackson.com
 banner.cotedazurpalace.com
 counted.com
+cowbelltime.com
 coxmt.com
 cozyhillside.com
 cpalead.com
@@ -753,7 +754,6 @@ web2.deja.com
 gp.dejanews.com
 delicatecascade.com
 eclicks.deliveroo.com
-deloplen.com
 demandbase.com
 deployads.com
 marketing.desertcart.com
@@ -771,6 +771,7 @@ adsrv.deviantart.com
 ads.devmates.com
 dewdroplagoon.com
 dianomi.com
+dicecandies.com
 didtheyreadit.com
 digestiondrawer.com
 ads.digital-digest.com
@@ -1161,6 +1162,7 @@ metrics.icloud.com
 analytics.icons8.com
 icptrack.com
 ads.icq.com
+icywinter.com
 id5-sync.com
 idevaffiliate.com
 idtargeting.com
@@ -1442,7 +1444,6 @@ track.miro.com
 mittencattle.com
 tracking.intl.miui.com
 tracking.miui.com
-mix2ads.com
 mixedreading.com
 mixpanel.com
 mkto-ab410147.com
@@ -1640,7 +1641,6 @@ pbterra.com
 peer39.com
 pennyweb.com
 pepperjamnetwork.com
-perceivequarter.com
 percentmobile.com
 perfectaudience.com
 perfiliate.com
@@ -2395,6 +2395,7 @@ whisperingcascade.com
 whisperingcrib.com
 whisperingsummit.com
 ads.whoishostingthis.com
+wholepagecache.com
 wickedreports.com
 athena-ads.wikia.com
 wikia-ads.wikia.com
@@ -2937,6 +2938,7 @@ clikerz.net
 d1f0tbk1v3e25u.cloudfront.net
 d2zd0wa1vpt7j9.cloudfront.net
 d81mfvml8p5ml.cloudfront.net
+copperstills.net
 criteo.net
 crwdcntrl.net
 realmedia-a800.d4p.net
@@ -2949,6 +2951,7 @@ dpbolvw.net
 li.mw.drhinternet.net
 r.drinksdirect.net
 e-planning.net
+eighthlayer.net
 banner.elisa.net
 eu-adcenter.net
 eulerian.net
@@ -3139,7 +3142,6 @@ adserver.ariase.org
 bigreal.org
 cdnondemand.org
 consensu.org
-metrics.consumerreports.org
 crypto-loot.org
 ad1.emule-project.org
 ad.exyws.org
@@ -3375,7 +3377,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 71600
+# Ignored duplicates: 71595
 # Ignored entries due to the allowlist: 192
 
 camcaps.ac
@@ -9072,7 +9074,6 @@ trace.690.co
 ad-srv.co
 adbit.co
 adcarem.co
-adcel.co
 adk2.co
 api.adnz.co
 xd.adnz.co
@@ -16368,6 +16369,8 @@ bpornvideos.com
 bqsex.com
 www.porn.br.com
 videosdesexo.br.com
+ads.brabys.com
+adsfeed.brabys.com
 bracalemusic.com
 bradborrellixxx.com
 herowine.bradenelliott.com
@@ -19940,6 +19943,7 @@ nsm.dell.com
 tab.dellrescue.com
 refrigeracion.delmondexpress.com
 deloitteca.com
+deloplen.com
 delosoa5.com
 deloton.com
 delsadefence.com
@@ -34149,6 +34153,7 @@ ccc.sys.miui.com
 geofence.sys.miui.com
 miva.com
 mix-xxx.com
+mix2ads.com
 mixadvert.com
 mixandfun.com
 mixfemdomcc.com
@@ -38157,6 +38162,7 @@ peppersextube.com
 peppertreefrosty.com
 pepsaga.com
 peqebulus.com
+perceivequarter.com
 perezhilton.com
 images.perf-serving.com
 b1.perfb.com
@@ -75540,6 +75546,7 @@ commercialtanningbeds.org
 communitystabilization.org
 considerartdone.org
 consumeralternatives.org
+metrics.consumerreports.org
 oascentral.consumerreports.org
 smetrics.consumerreports.org
 cdn.cookielaw.org
