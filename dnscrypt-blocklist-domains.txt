@@ -252,7 +252,6 @@ adservrs.com
 adside.com
 adsiduous.com
 adskeeper.com
-adskpak.com
 adsmartracker.com
 adsmogo.com
 adsnative.com
@@ -337,7 +336,6 @@ click.aliexpress.com
 alikeaddition.com
 alipromo.com
 ads.alive.com
-all4spy.com
 click.allkeyshop.com
 affiliates.allposters.com
 at-adserver.alltop.com
@@ -1352,7 +1350,6 @@ logsss.com
 logua.com
 evs.sgmt.loom.com
 loopme.com
-ads.lordlucky.com
 loudlunch.com
 lucidmedia.com
 luckyorange.com
@@ -2566,7 +2563,6 @@ tm.br.de
 marketing.net.brillen.de
 cash4popup.de
 clicktag.de
-commindo-media-ressourcen.de
 foo.cosmocode.de
 coupling-media.de
 deloo.de
@@ -2772,6 +2768,7 @@ fabric.io
 fpjs.io
 funnelytics.io
 tracking.intentsify.io
+click.liftoff.io
 litix.io
 log.logrocket.io
 r.logrocket.io
@@ -3270,6 +3267,7 @@ hits.sh
 megapu.sh
 ads.citymagazine.si
 ad.xmovies8.si
+api.affiliations.site
 kickoffo.site
 news-cdn.site
 onegg.site
@@ -3380,7 +3378,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 71471
+# Ignored duplicates: 71468
 # Ignored entries due to the allowlist: 194
 
 camcaps.ac
@@ -10740,6 +10738,7 @@ xml1.adsimilate.com
 adsinimages.com
 adsino24.com
 pop.redirect.adsjudo.com
+adskpak.com
 adsmart.com
 adsmoloco.com
 atr.adsmovil.com
@@ -11559,6 +11558,7 @@ all-internet-security.com
 all-shemale-video.com
 all-usanomination.com
 all18xxx.com
+all4spy.com
 oascentral.alladultchannel.com
 allaena.com
 allamericanmadetoys.com
@@ -32439,6 +32439,7 @@ lookxxxmovies.com
 looporn.com
 lootedpinay.com
 lopedite.com
+ads.lordlucky.com
 lordoftube.com
 lorviatex-app.com
 lorviatex-pro.com
@@ -55895,6 +55896,7 @@ update.protected.com.de
 directprocess.resting.com.de
 2025finfinacialforecastsharedwithyouviewviewin.tinkled.com.de
 yjolento-soskardo.com.de
+commindo-media-ressourcen.de
 banner.congstar.de
 www.counter4all.de
 counter4u.de
@@ -63650,7 +63652,6 @@ bigo-europe-rtb.liftoff.io
 bigo-rtb.liftoff.io
 build-cdn.liftoff.io
 cdn.liftoff.io
-click.liftoff.io
 click4.liftoff.io
 impression-asia.liftoff.io
 impression-east.liftoff.io
