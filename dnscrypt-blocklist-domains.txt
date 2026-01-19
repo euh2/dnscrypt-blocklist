@@ -366,6 +366,7 @@ api.eu.amplitude.com
 api.lab.amplitude.com
 track.anchorfree.com
 ancientact.com
+sidebar.angelfire.com
 mediax.angloinfo.com
 mediaz.angloinfo.com
 angossa.com
@@ -1362,6 +1363,8 @@ loudlunch.com
 lucidmedia.com
 luckyorange.com
 ludicrousarch.com
+adbuyer3.lycos.com
+ratings.lycos.com
 lyricshook.com
 lzjl.com
 mackeeperapp.mackeeper.com
@@ -1448,6 +1451,7 @@ track.miro.com
 mittencattle.com
 tracking.intl.miui.com
 tracking.miui.com
+mix2ads.com
 mixedreading.com
 mixpanel.com
 mkto-ab410147.com
@@ -1945,6 +1949,7 @@ servedby-buysellads.com
 servedbyadbutler.com
 servedbyopenx.com
 servethis.com
+sessioncam.com
 sexcounter.com
 sexlist.com
 sextracker.com
@@ -2236,6 +2241,7 @@ trendmd.com
 trialfire.com
 tribalfusion.com
 triplelift.com
+ads.tripod.com
 trkoptimizer.com
 trmit.com
 live.trmzum.com
@@ -2605,6 +2611,7 @@ layer-ads.de
 ligatus.de
 link-booster.de
 links-ranking.de
+ads.tripod.lycos.de
 adnews.maddog2000.de
 madvertise.de
 banner.media-system.de
@@ -2667,6 +2674,7 @@ bnrs.ilm.ee
 gml.email
 publicidad.elmundo.es
 gaug.es
+ads.tripod.lycos.es
 ads.mediasmart.es
 ads.recoletos.es
 click.v.visionlab.es
@@ -2695,6 +2703,7 @@ e-m.fr
 pub.hardware.fr
 leadplace.fr
 f7ds.liberation.fr
+ads.multimania.lycos.fr
 mediasquare.fr
 sbx.pagesjaunes.fr
 eule1.pmu.fr
@@ -2796,7 +2805,6 @@ pxf.io
 quickkoala.io
 recapture.io
 redshell.io
-revlift.io
 track.segmetrics.io
 simpleanalytics.io
 siteimproveanalytics.io
@@ -2822,6 +2830,7 @@ adserver.hwupgrade.it
 adv.hwupgrade.it
 ilead.itrack.it
 static.itrack.it
+ads.tripod.lycos.it
 tracker.mmdlv.it
 adv.mpvc.it
 marketing.net.occhiali24.it
@@ -2938,7 +2947,6 @@ chitika.net
 citrusad.net
 clikerz.net
 d1f0tbk1v3e25u.cloudfront.net
-d2zd0wa1vpt7j9.cloudfront.net
 d81mfvml8p5ml.cloudfront.net
 confiant-integrations.net
 copperstills.net
@@ -3117,6 +3125,7 @@ checkstat.nl
 ads.femmefab.nl
 ads2.femmefab.nl
 kliks.nl
+ads.tripod.lycos.nl
 m4n.nl
 ads.massinfra.nl
 netdirect.nl
@@ -3203,7 +3212,6 @@ adsrv2.swidnica24.pl
 stat.webmedia.pl
 adv.wp.pl
 trk.4ff.pro
-best-click.pro
 click4.pro
 clickngo.pro
 direct-promo.pro
@@ -3271,7 +3279,6 @@ reklam.rfsl.se
 tailsweep.se
 webtraffic.se
 hits.sh
-megapu.sh
 ads.citymagazine.si
 ad.xmovies8.si
 api.affiliations.site
@@ -3342,6 +3349,8 @@ ads.guardian.co.uk
 ads.guardianunlimited.co.uk
 ads.jobsite.co.uk
 adn.lrb.co.uk
+ads.tripod.lycos.co.uk
+hit.webcentre.lycos.co.uk
 metadsp.co.uk
 stats.mirrorfootball.co.uk
 ads.newsint.co.uk
@@ -3384,7 +3393,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 65345
+# Ignored duplicates: 65352
 # Ignored entries due to the allowlist: 193
 
 camcaps.ac
@@ -11911,7 +11920,6 @@ salopepoitrine.angelfire.com
 saxumeda.angelfire.com
 secehira.angelfire.com
 serilobe.angelfire.com
-sidebar.angelfire.com
 sovujva.angelfire.com
 swolangedijk.angelfire.com
 teqajopi.angelfire.com
@@ -30490,11 +30498,9 @@ lxax.com
 lxtube.com
 th.lxxlxx.com
 lyconet.com
-adbuyer3.lycos.com
 ads.lycos.com
 cm8.lycos.com
 oascentral.lycos.com
-ratings.lycos.com
 lycosgamesville.com
 lylynatural.com
 lynexis-trader-93-flex.com
@@ -40619,7 +40625,6 @@ servingshade.com
 serviporno.com
 servsave.com
 sesrotes.com
-sessioncam.com
 sessoanalevideo.com
 sessoromantico.com
 sessotubo.com
@@ -52383,7 +52388,6 @@ lindnerelektroanlagen.de
 livecam-sex.de
 love-angels-berlin.de
 promo.love-money.de
-ads.tripod.lycos.de
 m-barati.de
 erotik.markt.de
 media-angel.de
@@ -53028,7 +53032,6 @@ sadbmetrics.laverdad.es
 live-porn.es
 lomejordesalamanca.es
 fe.lea.lycos.es
-ads.tripod.lycos.es
 matrifor.es
 smetrics.seguro.mediaset.es
 fotologaso.miss-web.es
@@ -54292,7 +54295,6 @@ lueway.fr
 luminae.fr
 luniko.fr
 lyceebrequigny.fr
-ads.multimania.lycos.fr
 lyophililse.fr
 maanageo.fr
 mabtech.fr
@@ -59394,6 +59396,7 @@ relap.io
 api.repro.io
 sdk.resu.io
 sdk1.resu.io
+revlift.io
 rocks.io
 clicks.rtad.io
 bidder.rtk.io
@@ -59598,7 +59601,6 @@ larossola.it
 adserver.libero.it
 listasitiporno.it
 lupopornohd.it
-ads.tripod.lycos.it
 utenti.lycos.it
 manufacta-italia.it
 marcofama.it
@@ -64669,6 +64671,7 @@ d2uap9jskdzp2.cloudfront.net
 d2vig74li2resi.cloudfront.net
 d2wzkjnj9pfptq.cloudfront.net
 d2zah9y47r7bi2.cloudfront.net
+d2zd0wa1vpt7j9.cloudfront.net
 d329v4h155l6cn.cloudfront.net
 d32ajg1ye8vnl9.cloudfront.net
 d3dkhq0wwdwodv.cloudfront.net
@@ -70485,7 +70488,6 @@ webcamsex.links.nl
 livecams.nl
 livesex-cam.nl
 livesexclub.nl
-ads.tripod.lycos.nl
 buckangel.maakjestart.nl
 madeleinekrook.nl
 maisaiz.nl
@@ -75185,6 +75187,7 @@ bekydoo.pro
 benevforju.pro
 benzbecten.pro
 bersarimbr.pro
+best-click.pro
 bestdesiporn.pro
 bestdesisex.pro
 bestfuckmovies.pro
@@ -79835,6 +79838,7 @@ jav.sh
 javdoe.sh
 javfinder.sh
 javfree.sh
+megapu.sh
 minero-proxy-01.now.sh
 minero-proxy-02.now.sh
 minero-proxy-03.now.sh
@@ -83674,8 +83678,6 @@ londonairportstransfer.co.uk
 londonmistressdirectory.co.uk
 lucifersdarkangel.co.uk
 d.lumatag.co.uk
-ads.tripod.lycos.co.uk
-hit.webcentre.lycos.co.uk
 m-99.co.uk
 metrics.ma500.co.uk
 a.macuser.co.uk
