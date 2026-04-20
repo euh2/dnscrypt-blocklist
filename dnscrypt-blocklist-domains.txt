@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml ##########
 
-# Ignored duplicates: 97
+# Ignored duplicates: 96
 # Ignored entries due to the allowlist: 15
 
 audio.ad
@@ -64,6 +64,7 @@ ads.watson.ch
 link.go.chase
 adserver.bdoce.cl
 a11.click
+doqpm.click
 shd247.click
 admaster.com.cn
 securemetrics.apple.com.cn
@@ -71,6 +72,7 @@ ads.doit.com.cn
 ip193.cn
 6sc.co
 adcel.co
+adxxxxxmost.co
 algorix.co
 ayads.co
 cs.co
@@ -411,7 +413,6 @@ atwola.com
 auctionads.com
 audience2media.com
 audienceinsights.com
-ad.auditude.com
 avalonalbum.com
 uib.ff.avast.com
 avenuea.com
@@ -1245,7 +1246,6 @@ adserver.irishwebmasterforum.com
 islandwebhelp.com
 api.iterable.com
 js.iterable.com
-its-that-easy.com
 ads.itv.com
 hits-i.iubenda.com
 ivykiosk.com
@@ -2294,7 +2294,6 @@ mediamgr.ugo.com
 ukoffzeh.com
 ads.ultimate-guitar.com
 ultimateclixx.com
-affiliates.ultrahosting.com
 ultramercial.com
 ultraoranges.com
 track.ultravpn.com
@@ -2615,7 +2614,6 @@ ads.gaming-universe.de
 gearwom.de
 adserve.gkeurope.de
 go-clicks.de
-go-rank.de
 webcounter.goweb.de
 ad.hbv.de
 ads.hbv.de
@@ -2665,7 +2663,6 @@ sponsorads.de
 sponsorpro.de
 stats.stb-ottow.de
 superclix.de
-surfmusik-adserver.de
 ads.syscdn.de
 banner.tanto.de
 targad.de
@@ -2946,7 +2943,6 @@ aistat.net
 e37364.dscd.akamaiedge.net
 analytics.algoepico.net
 box.anchorfree.net
-androiddownload.net
 anrdoezrs.net
 aso1.net
 at-o.net
@@ -2968,6 +2964,7 @@ btglss.net
 c212.net
 carbonads.net
 chartbeat.net
+chitika.net
 citrusad.net
 clikerz.net
 d1f0tbk1v3e25u.cloudfront.net
@@ -3416,7 +3413,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 73521
+# Ignored duplicates: 73516
 # Ignored entries due to the allowlist: 190
 
 wp14-c13236-2.btsndrc.ac
@@ -13876,6 +13873,7 @@ listen.audiohook.com
 l1.audiomob.com
 www.audionoisereducer.com
 www.auditprint.com
+ad.auditude.com
 cdn.auditude.com
 sync.audtd.com
 augsburg-auto.com
@@ -29483,6 +29481,7 @@ itquant-app.com
 ip.itracker360.com
 itrackerpro.com
 itriptempe.com
+its-that-easy.com
 itscleolive.com
 itsfree123.com
 itsfuck.com
@@ -49484,6 +49483,7 @@ ultrahdporn4k.com
 ultrahdpornvideos.com
 ultrahdpornxxx.com
 ultrahorny.com
+affiliates.ultrahosting.com
 ultrahqporn.com
 ultraindiansex.com
 ultralume-maintain.com
@@ -56245,6 +56245,7 @@ ggg-film.de
 girlsbcn.de
 mdunker.gmxhome.de
 gnorths.de
+go-rank.de
 grabraeuber.de
 xjbm.granolas.de
 ad.groupon.de
@@ -56489,6 +56490,7 @@ pge-strefa-klienta.stiller-heilpraxis.de
 mb-cdn.stocard.de
 strassenstrich-parkplatzsex.de
 www.super8service.de
+surfmusik-adserver.de
 im.banner.t-online.de
 telefonsexpalast.de
 testensie.de
@@ -68301,6 +68303,7 @@ analyticssystems.net
 rpt.anchorfree.net
 andr.net
 andreadavies.net
+androiddownload.net
 andrq.net
 angel-cassidy.net
 angela-devi.net
@@ -68924,7 +68927,6 @@ chineseav.net
 chineseteenporn.net
 chinesexxx.net
 v5.chinoc.net
-chitika.net
 chogai.net
 choitrai.net
 chris-davies.net
