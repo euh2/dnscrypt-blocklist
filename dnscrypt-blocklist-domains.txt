@@ -3,7 +3,7 @@
 ########## Blocklist from https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml ##########
 
 # Ignored duplicates: 95
-# Ignored entries due to the allowlist: 15
+# Ignored entries due to the allowlist: 16
 
 audio.ad
 content.ad
