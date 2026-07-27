@@ -113,6 +113,7 @@ affiliate.1800flowers.com
 3337723.com
 33across.com
 360yield.com
+360yield-basic.com
 install.365-stream.com
 3lift.com
 4info.com
@@ -302,7 +303,6 @@ adventory.com
 adventurousamount.com
 ads.adverline.com
 adverticum.com
-advertipros.com
 advertise.com
 advertiseireland.com
 advertiserurl.com
@@ -429,7 +429,6 @@ q.azcentral.com
 li.azstarnet.com
 click.crm.ba.com
 banners.babylon-x.com
-affiliates.babylon.com
 backbeatmedia.com
 backtension.com
 bagsurprise.com
@@ -1086,7 +1085,6 @@ googletagservices.com
 goqon.com
 gostats.com
 gothamads.com
-gotoyahoo.com
 metrics.govexec.com
 ads.goyk.com
 li.gq.com
@@ -1290,7 +1288,6 @@ analytics.justuno.com
 click.justwatch.com
 justwowjars.com
 ads.kabooaffiliates.com
-videostats.kakao.com
 api.kameleoon.com
 customers.kameleoon.com
 static.kameleoon.com
@@ -2080,7 +2077,6 @@ stackadapt.com
 stakingsmile.com
 stalesummer.com
 starffa.com
-starkscale.com
 starrynets.com
 starsmarter.com
 startapp.com
@@ -3119,7 +3115,6 @@ a.ucoz.net
 track.unear.net
 hsn.uqhv.net
 urlcash.net
-userreplay.net
 ads-portal-cdn.vidaatv.net
 vivads.net
 w55c.net
@@ -3413,7 +3408,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 74727
+# Ignored duplicates: 74721
 # Ignored entries due to the allowlist: 191
 
 camcaps.ac
@@ -11224,6 +11219,7 @@ www.adversalservers.com
 advert-time.com
 advert-track.com
 advertica-cdn.com
+advertipros.com
 ads.advertisespace.com
 www.advertising365.com
 advertisingbay.com
@@ -14280,6 +14276,7 @@ metrics.babycenter.com
 babychatai.com
 enter.babygotboobs.com
 clicks.babylon-x.com
+affiliates.babylon.com
 babylyst.com
 babyporner.com
 babystar123.com
@@ -26012,6 +26009,7 @@ gotoip55.com
 gotomad.com
 www.gotorobeks.com
 gotowebcams.com
+gotoyahoo.com
 gotporn.com
 gotpornhub.com
 adapace.gotrackier.com
@@ -30932,6 +30930,7 @@ kainpopoy.com
 kaiu-marketing.com
 kaizentraffic.com
 linkage.kakaku.com
+videostats.kakao.com
 kakatvoeiprich.com
 kala3d.com
 kalamiskanatcisi.com
@@ -46244,6 +46243,7 @@ starjepang.com
 stark-ai-app.com
 starkfondthal-de.com
 starkkapitalekt.com
+starkscale.com
 adx.starnewsonline.com
 staronvexatech.com
 adv.starozagorci.com
@@ -77549,6 +77549,7 @@ urlscanner.net
 usachoice.net
 out.usbla.net
 analytics.usdm.net
+userreplay.net
 usstokyo.net
 ustasepeti.net
 s.uuidksinc.net
