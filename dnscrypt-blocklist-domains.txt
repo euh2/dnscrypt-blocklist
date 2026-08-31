@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml ##########
 
-# Ignored duplicates: 96
+# Ignored duplicates: 99
 # Ignored entries due to the allowlist: 16
 
 audio.ad
@@ -44,6 +44,7 @@ trafficfactory.biz
 ads.wwe.biz
 banners.bol.com.br
 adserver.diariodosertao.com.br
+ads.egrana.com.br
 ads.ibest.com.br
 adserver.pampa.com.br
 softclick.com.br
@@ -58,6 +59,7 @@ adserver.pressboard.ca
 ac.rnm.ca
 ads.weather.ca
 ads.acpc.cat
+admaster.cc
 ads.cc
 tracker.colatv88xb.cc
 mediabridge.cc
@@ -70,6 +72,7 @@ adme2.click
 doqpm.click
 shd247.click
 ingest.in.signoz.cloud
+stat.lianmeng.360.cn
 admaster.com.cn
 securemetrics.apple.com.cn
 ads.doit.com.cn
@@ -92,6 +95,7 @@ lemnisk.co
 magicadz.co
 analytics.mailmunch.co
 mintfunnel.co
+t.nc0.co
 t.podcast.co
 pushtrack.co
 rockabox.co
@@ -558,6 +562,7 @@ bubblyaction.com
 buddycanvas.com
 buysellads.com
 buzzonclick.com
+maliva-mcs.byteoversea.com
 mon.byteoversea.com
 mon-va.byteoversea.com
 c1exchange.com
@@ -843,6 +848,7 @@ telemetry.v.dropbox.com
 drumcash.com
 dstillery.com
 affiliate.dtiserv.com
+t.dtscdn.com
 r.marketing.dubaisothebys.com
 dustyhammer.com
 px.dynamicyield.com
@@ -956,6 +962,7 @@ feedjit.com
 feedmob.com
 feelwarmth.com
 femalecook.com
+fenxi.com
 ads.ferianc.com
 figsprotein.com
 fillthemap.com
@@ -1162,6 +1169,7 @@ honeybutterbliss.com
 honorableland.com
 click.hookupinyourcity.com
 ads.horsehero.com
+tracking.hostgator.com
 click.mail.hotels.com
 hotjar.com
 links.housekeep.com
@@ -1508,6 +1516,7 @@ morefolks.com
 motionlessmeeting.com
 motionspots.com
 aserv.motorsgate.com
+px.mountain.com
 mousestats.com
 movemeal.com
 mparticle.com
@@ -2056,6 +2065,7 @@ ads10.speedbit.com
 speedomizer.com
 speedshiftmedia.com
 spellingthoughts.com
+obs.sd4823.spglobal.com
 spiffymachine.com
 logs.spilgames.com
 spinnaker-js.com
@@ -2343,6 +2353,7 @@ vervewireless.com
 verybark.com
 a.vfghd.com
 a.vfgtb.com
+a.vfgth.com
 ads.vgchartz.com
 vgnp3trk.com
 vibrantsundown.com
@@ -2455,6 +2466,7 @@ x-traceur.com
 xad.com
 a.xanga.com
 xapads.com
+xdrig.com
 analytics.xelondigital.com
 xertive.com
 xfreeservice.com
@@ -2680,6 +2692,7 @@ wondoads.de
 zanox-affiliate.de
 ay.delivery
 ourdreamstaticpages.pages.dev
+pooinc-7dw.pages.dev
 plausibleio.workers.dev
 experianmarketingservices.digital
 adpepper.dk
@@ -2872,6 +2885,7 @@ aa-metrics.recruit-card.jp
 secre.jp
 tatsumi-sys.jp
 aa-metrics.trip-ai.jp
+51.la
 carambo.la
 contrack.link
 datenow.link
@@ -2901,6 +2915,7 @@ adservice.google.com.mt
 ads.independent.com.mt
 ato.mx
 adserver.info7.mx
+ads.zorvec.name
 207.net
 2mdn.net
 2o7.net
@@ -2962,6 +2977,7 @@ bidclix.net
 bidswitch.net
 ad0.bigmir.net
 c.bigmir.net
+bat.bing.net
 blueconic.net
 bluenest.net
 bounceads.net
@@ -3406,6 +3422,7 @@ pixel.watch
 pulse.genki.world
 thebugs.ws
 adktrack124.xyz
+xml-v4.oceanfall.xyz
 prufenzo.xyz
 randkuj.xyz
 rexadvert.xyz
@@ -3415,7 +3432,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 67655
+# Ignored duplicates: 67660
 # Ignored entries due to the allowlist: 195
 
 camcaps.ac
@@ -6474,7 +6491,6 @@ ebok-pl.a1one.cc
 a4w.cc
 aagmaal.cc
 abc001.cc
-imagesnep.admaster.cc
 adop.cc
 adtag.cc
 adult-movies.cc
@@ -20112,7 +20128,6 @@ customize.dtiserv.com
 click.dtiserv2.com
 tracking.dtiserv2.com
 cache.dtmpub.com
-t.dtscdn.com
 dtscout.com
 adult-friend-finder-dat-ing-site.dtspeedds.com
 dtvideo.com
@@ -26367,7 +26382,6 @@ hostedtube.com
 murbil.hostei.com
 www.hostelxxx.com
 hostfleek.com
-tracking.hostgator.com
 www.hostiex.com
 hostinganime.com
 hostingfreelife.com
@@ -49778,7 +49792,6 @@ xdeutschpornox.com
 xdiablox.com
 xdooz.com
 xdoublebang.com
-xdrig.com
 xdrivecapital.com
 counter.xeanon.com
 xecce.com
@@ -60003,7 +60016,6 @@ akita.kz
 analytics.metro.com.kz
 massage-v-almaty.kz
 torgi.kz
-51.la
 brazzers3x.la
 decouvre.la
 hitomi.la
