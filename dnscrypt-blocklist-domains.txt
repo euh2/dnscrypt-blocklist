@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml ##########
 
-# Ignored duplicates: 99
+# Ignored duplicates: 100
 # Ignored entries due to the allowlist: 16
 
 audio.ad
@@ -1636,6 +1636,7 @@ openadsnetwork.com
 operationchicken.com
 opienetwork.com
 opmnstr.com
+opoxv.com
 oppuz.com
 optimallimit.com
 optimizely.com
@@ -1678,7 +1679,7 @@ paycounter.com
 paypopup.com
 pbterra.com
 peer39.com
-a.pemsrv.com
+pemsrv.com
 pennyweb.com
 pepperjamnetwork.com
 percentmobile.com
@@ -3434,7 +3435,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 67150
+# Ignored duplicates: 67151
 # Ignored entries due to the allowlist: 196
 
 camcaps.ac
@@ -35700,7 +35701,6 @@ www.pelistvseries.com
 pellet-premuim.com
 pelletdom.com
 pelnazyskowow.com
-s.pemsrv.com
 penainveranza.com
 penainweransa.com
 peneporno.com
