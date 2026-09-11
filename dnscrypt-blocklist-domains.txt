@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml ##########
 
-# Ignored duplicates: 101
+# Ignored duplicates: 102
 # Ignored entries due to the allowlist: 16
 
 audio.ad
@@ -2821,6 +2821,7 @@ click.liftoff.io
 litix.io
 log.logrocket.io
 r.logrocket.io
+metrix.luxnet.io
 lytics.io
 magnetise.io
 track.mailalert.io
@@ -3332,6 +3333,7 @@ lightstep.medium.systems
 ql.tc
 acobt.tech
 yads.tech
+stats.in.th
 truehits1.gits.net.th
 truehits2.gits.net.th
 cpx.to
