@@ -37,6 +37,7 @@ ads.mail.bg
 revive.plays.bg
 counter.search.bg
 ads.unison.bg
+ad7.biz
 adnet.biz
 ktu.sv2.biz
 textads.biz
@@ -197,6 +198,7 @@ adforce.com
 adform.com
 adhaven.com
 adhese.com
+adhood.com
 adinterax.com
 adisfy.com
 adition.com
@@ -1176,6 +1178,7 @@ hs-banner.com
 ads.hsoub.com
 htlbid.com
 httpool.com
+track-na2.hubspot.com
 hubspotlinks.com
 hueads.com
 hueadsortb.com
@@ -1902,6 +1905,7 @@ robotrefinery.com
 robotreplay.com
 rockagainst.com
 rockstarwriter.com
+roguephilosopher.com
 logs.roku.com
 rollconnection.com
 ronracepub.com
@@ -3438,7 +3442,7 @@ adsrv.iol.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts ##########
 
-# Ignored duplicates: 66462
+# Ignored duplicates: 66463
 # Ignored entries due to the allowlist: 192
 
 camcaps.ac
@@ -10551,7 +10555,6 @@ adhearus.com
 www.adhexa.com
 kwserver.adhispanic.com
 adhitzads.com
-adhood.com
 ads.adhostingsolutions.com
 adserver-images.adikteev.com
 aksdk-images.adikteev.com
